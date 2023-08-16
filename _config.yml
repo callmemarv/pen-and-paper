@@ -1,5 +1,4 @@
 title: Pen and Paper
-description: Ein einfaches Rollenspiel-System basierend auf Dungeons and Dragons.
 
 plugins:
 - jekyll-remote-theme
