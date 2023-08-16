@@ -132,7 +132,15 @@ TODO
 * Meisterschaft
 * Titel
 
-# Copyright-Hinweis
+# Sonstiges
+
+## Quellen
+
+Diese Seite wird von GitHub Pages gehostet. Der Quellcode befindet sich im zugehörigen [Pen & Paper Repository](https://github.com/callmemarv/pen-paper).
+
+Das verwendete Jekyll-Layout (Leap Day) stammt von [mattgraham](https://twitter.com/mattgraham).
+
+## Copyright-Hinweis
 
 Wizards of the Coast, Dungeons & Dragons, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries. © 2015 Wizards. All Rights Reserved.
 
