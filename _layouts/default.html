@@ -21,6 +21,7 @@
 <body>
     <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
     </header>
     <div class="wrapper">
         <nav>
@@ -29,11 +30,11 @@
         <section>
             {{ content }}
         </section>
-        <footer>
-            <p><small>Hosted on GitHub Pages (<a href="https://github.com/callmemarv/pen-and-paper">Source</a>)</small></p>
-            <p><small>Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
-       </footer>
     </div>
+    <footer>
+        <p><small>Hosted on GitHub Pages (<a href="https://github.com/callmemarv/pen-and-paper">Source</a>)</small></p>
+        <p><small>Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
+   </footer>
 </body>
 
 </html>

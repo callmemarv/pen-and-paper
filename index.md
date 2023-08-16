@@ -1,7 +1,3 @@
-# Pen & Paper
-
-Ein einfaches Rollenspielsystem basierend auf Dungeons & Dragons® (D&D).
-
 # Idee
 
 D&D ist ein großartiges Rollenspiel-System. Das komplexen Regelwerk bietet für fast alle Spielsituationen eine spezifische Mechanik. Im Gegenzug fordert es von den Spieler:innen den Umgang mit diesen Mechaniken beherrschen zu lernen. Das ist zeitaufwendig und kann vor allem neue Spieler:innen überfordern, was den Spielspaß dämpft. Ich glaube, dass die meisten Spielsituationen auch mit weniger komplexen Mechaniken spielbar wären.
