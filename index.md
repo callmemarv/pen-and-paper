@@ -22,11 +22,11 @@ In diesem Spielsystem gibt es deshalb
 
 # Spielregeln
 
-## Die Spielleiter:in hat immer Recht
+## Die Spielleiter:in hat Recht
 
 Wie auch bei D&D gilt im Zweifel die Entscheidung der Spielleiter:in. Diese:r ist für die Entwicklung der Geschichte verantwortlich und darf sich vorbehalten, die Regeln zu diesem Zweck zu interpretieren, zu verändern und zu brechen.
 
-## Plausibilität und Wahrscheinlichkeit
+## Wahrscheinlichkeit
 
 Die meisten Mechaniken von D&D dienen dem Zweck, die Plausibilität und Erfolgswahrscheinlichkeiten der von den Spieler:innen beschriebenen Aktionen zu bewerten. Oft besteht innerhalb der Gruppe aber sofort ein Gefühl dafür, wie wahrscheinlich etwas ungefähr sein wird, welches nicht erst noch aufwendig vermessen und nachberechnet werden muss. In diesen Fällen und als allgemeine Fallback-Regel gilt: Die Spielleiter:in ordnet die beschriebene Aktion unter Berücksichtigung der Besonderheiten der Charaktere in eine der folgenden Kategorien ein.
 
@@ -71,11 +71,7 @@ TODO
 
 TODO
 
-### Zauberangriffe
-
-TODO
-
-#### Magische Duelle
+### Magische Duelle
 
 TODO
 
