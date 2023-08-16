@@ -44,10 +44,10 @@ Die meisten Mechaniken von D&D dienen dem Zweck, die Plausibilität und Erfolgsw
 <tr><td>wahrscheinlich</td><td>80%</td><td>5-20</td></tr>
 <tr><td>möglich</td><td>50%</td><td>11-20</td></tr>
 <tr><td>unwahrscheinlich</td><td>20%</td><td>17-20</td></tr>
-<tr><td>äußerst unwahrscheinlich</td><td>5%</td><td></td>20</tr>
+<tr><td>äußerst unwahrscheinlich</td><td>5%</td><td>20</td></tr>
 <tr><td>unmöglich</td><td>0%</td><td>-</td></tr>
 </tbody>
-</tabel>
+</table>
 
 Die Spielleiter:in entscheidet im Einzelfall, ob die Gruppe die Erfolgswahrscheinlichkeit vor dem Würfelwurf erfährt. Durch die verbale Äußerung der bereits bestimmten Wahrscheinlichkeit wird das Würfelergebnis für alle Spieler:innen sofort interpretierbar, was das Mitfiebern fördert, kann jedoch nicht mehr zugunsten der Geschichte umgedeutet werden, was die Spielleiter:in einschränkt.
 
