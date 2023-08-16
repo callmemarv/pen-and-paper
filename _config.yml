@@ -1,0 +1,9 @@
+title: Pen and Paper
+description: A simple role-playing game system based on Dungeons and Dragons.
+
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# Theme options
+remote_theme: pages-themes/architect@v0.2.0
+show_downloads: "false"
