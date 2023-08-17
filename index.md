@@ -1,10 +1,10 @@
-# Idee
+## Idee
 
 D&D ist ein großartiges Rollenspiel-System. Das komplexen Regelwerk bietet für fast alle Spielsituationen eine spezifische Mechanik. Im Gegenzug fordert es von den Spieler:innen den Umgang mit diesen Mechaniken beherrschen zu lernen. Das ist zeitaufwendig und kann vor allem neue Spieler:innen überfordern, was den Spielspaß dämpft. Ich glaube, dass die meisten Spielsituationen auch mit weniger komplexen Mechaniken spielbar wären.
 
 Der offizielle *Dungeon Master's Guide* ermutigt Spielleiter:innen, für die eigene Kampagne deutlich von den bestehenden Regeln abzuweichen, wenn sie glauben, dass damit dem Spielspaß der Gruppe gedient ist. Dieses Rollenspielsystem tut genau das.
 
-## Abweichungen von D&D
+### Abweichungen von D&D
 
 Dieses Spielsystem soll das Erstellen und Spielen von Charakteren vereinfachen.
 
@@ -20,13 +20,13 @@ In diesem Spielsystem gibt es deshalb
 * keine Schadenspunkte
 * andere Kampfmechaniken
 
-# Spielregeln
+## Spielregeln
 
-## Die Spielleiter:in hat Recht
+### Die Spielleiter:in hat Recht
 
 Wie auch bei D&D gilt im Zweifel die Entscheidung der Spielleiter:in. Diese:r ist für die Entwicklung der Geschichte verantwortlich und darf sich vorbehalten, die Regeln zu diesem Zweck zu interpretieren, zu verändern und zu brechen.
 
-## Wahrscheinlichkeit
+### Wahrscheinlichkeit
 
 Die meisten Mechaniken von D&D dienen dem Zweck, die Plausibilität und Erfolgswahrscheinlichkeiten der von den Spieler:innen beschriebenen Aktionen zu bewerten. Oft besteht innerhalb der Gruppe aber sofort ein Gefühl dafür, wie wahrscheinlich etwas ungefähr sein wird, welches nicht erst noch aufwendig vermessen und nachberechnet werden muss. In diesen Fällen und als allgemeine Fallback-Regel gilt: Die Spielleiter:in ordnet die beschriebene Aktion unter Berücksichtigung der Besonderheiten der Charaktere in eine der folgenden Kategorien ein.
 
@@ -51,71 +51,79 @@ Die Spielleiter:in entscheidet im Einzelfall, ob die Gruppe die Erfolgswahrschei
 
 TODO
 
-## Erkunden
+### Erkunden
 
 TODO
 
-## Soziale Interaktionen
+### Soziale Interaktionen
 
 TODO
 
-## Kämpfen
+### Kämpfen
 
 TODO
 
-### Nahkampfangriffe
+#### Nahkampfangriffe
 
 TODO
 
-### Fernkampfangriffe
+#### Fernkampfangriffe
 
 TODO
 
-#### Magische Duelle
+#### Zauberangriffe
 
 TODO
 
-## Rasten
+##### Magische Duelle
 
 TODO
 
-# Charakter erstellen
+### Rasten
 
 TODO
 
-## Persönliche Geschichte
+#### Erschöpfung
 
 TODO
 
-## Attribute
+## Charakter erstellen
 
 TODO
 
-## Wesen
+### Persönliche Geschichte
 
 TODO
 
-## Archetyp
+### Attribute
 
 TODO
 
-## Talente und Schwächen
+### Wesen
 
 TODO
 
-## Fertigkeiten
+### Klasse
 
 TODO
 
-## Zauber
+### Talente und Schwächen
 
 TODO
 
-## Inventar
+### Fertigkeiten
 
 TODO
 
-# Charakter entwickeln
+### Zauber
+
+TODO
+
+### Inventar
+
+TODO
+
+## Charakter entwickeln
 
 TODO
 
@@ -127,14 +135,6 @@ TODO
 * Vetraute Gegenstände
 * Meisterschaft
 * Titel
-
-# Sonstiges
-
-## Quellen
-
-Diese Seite wird von GitHub Pages gehostet. Der Quellcode befindet sich im zugehörigen [Pen & Paper Repository](https://github.com/callmemarv/pen-paper).
-
-Das verwendete Jekyll-Layout (Leap Day) stammt von [mattgraham](https://twitter.com/mattgraham).
 
 ## Copyright-Hinweis
 
