@@ -12,13 +12,17 @@ In diesem Spielsystem gibt es deshalb
 * keine Klassen, nur Talente, Fertigkeiten und Zauber
 * keine Charakter-Level, sondern eine auf Attributen basierende Entwicklung
 * keine Spell-Slots, sondern eine Ausdauer-Mechanik
-* nur 5 Attribute
+* nur 5 Attribute: Stärke, Geschick, Wissen, Charisma und Ausdauer
 * einen anderen Wertebereich für Attribute
 * keine Unterattribute (Skills)
 * keine Rettungswürfe
 * keine Lebenspunkte
 * keine Schadenspunkte
 * andere Kampfmechaniken
+
+## Inhalt
+
+TODO
 
 ## Spielregeln
 
@@ -79,11 +83,11 @@ TODO
 
 TODO
 
-### Rasten
+### Zustände
 
 TODO
 
-#### Erschöpfung
+### Rasten
 
 TODO
 
@@ -136,7 +140,17 @@ TODO
 * Meisterschaft
 * Titel
 
-## Copyright-Hinweis
+## Anhang
+
+### Talente
+
+### Schwächen
+
+### Fertigkeiten
+
+### Zauber
+
+### Copyright-Hinweis
 
 Wizards of the Coast, Dungeons & Dragons, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries. © 2015 Wizards. All Rights Reserved.
 
