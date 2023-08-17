@@ -30,7 +30,7 @@ TODO
 
 Wie auch bei D&D gilt im Zweifel die Entscheidung der Spielleiter:in. Diese:r ist für die Entwicklung der Geschichte verantwortlich und darf sich vorbehalten, die Regeln zu diesem Zweck zu interpretieren, zu verändern und zu brechen.
 
-### Wahrscheinlichkeit
+### Plausibilität und Wahrscheinlichkeit
 
 Die meisten Mechaniken von D&D dienen dem Zweck, die Plausibilität und Erfolgswahrscheinlichkeiten der von den Spieler:innen beschriebenen Aktionen zu bewerten. Oft besteht innerhalb der Gruppe aber sofort ein Gefühl dafür, wie wahrscheinlich etwas ungefähr sein wird, welches nicht erst noch aufwendig vermessen und nachberechnet werden muss. In diesen Fällen und als allgemeine Fallback-Regel gilt: Die Spielleiter:in ordnet die beschriebene Aktion unter Berücksichtigung der Besonderheiten der Charaktere in eine der folgenden Kategorien ein.
 
@@ -57,13 +57,24 @@ Tyrion schleicht sich bis auf 20m an eine Gruppe von 3 Goblins heran, nimmt sein
 
 ### Erkunden
 
-TODO
+Das Erkunden und Entdecken verlaufen wie bei D&D: Die Spielleiter:in beschreibt die Umgebung, die Spieler:innen ihrer Gedanken und Handlungen. Doch statt Proben auf konkrete Attribute abzulegen bewertet die Spielleiter:in Situation und Charaktere als ganzes und legt dann eine Wahrscheinlichkeitskategorie fest.
+
+**Beipiel**
+Tyrion entdeckt eine schwere, eisenbeschlagene Holztruhe. Das Schloss ist alt und massiv, der Schließmechanismus aber relativ simpel. Tyrion - obwohl kampferprobt - ist nicht der Stärkste und verlässt sich lieber auf sein Geschick. Fachkundig Schlossknacken, ist es **wahrscheinlich**, dass er das Schloss schnell und geräuschlos überwinden kann. Das Truhe mittels seines Dolches aufzubrechen wäre zwar eine denkbare Alternative, die Erfolgsaussichten aber **äußerst unwahrscheinlich**.
 
 ### Soziale Interaktionen
 
 TODO
 
 ### Kämpfen
+
+TODO
+
+#### Bewegen
+
+TODO
+
+#### Aktionen
 
 TODO
 
