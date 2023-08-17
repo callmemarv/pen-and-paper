@@ -1,10 +1,16 @@
-## Idee
+## Vorwort
 
 D&D ist ein großartiges Rollenspiel-System. Das komplexen Regelwerk bietet für fast alle Spielsituationen eine spezifische Mechanik. Im Gegenzug fordert es von den Spieler:innen den Umgang mit diesen Mechaniken beherrschen zu lernen. Das ist zeitaufwendig und kann vor allem neue Spieler:innen überfordern, was den Spielspaß dämpft. Ich glaube, dass die meisten Spielsituationen auch mit weniger komplexen Mechaniken spielbar wären.
 
 Der offizielle *Dungeon Master's Guide* ermutigt Spielleiter:innen, für die eigene Kampagne deutlich von den bestehenden Regeln abzuweichen, wenn sie glauben, dass damit dem Spielspaß der Gruppe gedient ist. Dieses Rollenspielsystem tut genau das.
 
-### Abweichungen von D&D
+## Inhalt
+
+TODO
+
+## Spielregeln
+
+### Abweichungen von D&D-Regeln
 
 Dieses Spielsystem soll das Erstellen und Spielen von Charakteren vereinfachen.
 
@@ -20,11 +26,9 @@ In diesem Spielsystem gibt es deshalb
 * keine Schadenspunkte
 * andere Kampfmechaniken
 
-## Inhalt
+### Rückgriff auf D&D-Regeln
 
-TODO
-
-## Spielregeln
+Dieses Spielsystem ist - technisch gesehen - eine Erweiterung der offiziellen D&D-Regeln. Das bedeutet, dass Spieler:innen grundsätzlich auf diese zurückgreifen sollten, wenn dieses Spielsystem keine Regel für eine bestimmte Spielsituation bietet. So gelten beispielsweise das Währungssystem sowie die Richtwerte dafür, wie lange es dauert, einen bestimmte Rüstung anzulegen oder wie weit Charaktere ohne Nachtsicht im Dunkeln sehen können, wie im offiziellen *Player's Handbook* beschrieben.
 
 ### Die Spielleiter:in hat immer Recht
 
@@ -55,54 +59,11 @@ Die Spielleiter:in entscheidet im Einzelfall, ob die Gruppe die Erfolgswahrschei
 
 Tyrion schleicht sich bis auf 20m an eine Gruppe von 3 Goblins heran, nimmt seinen Kurzbogen zur Hand und legt an. Er ist geübt im Umgang mit Kurzbögen und vertraut mit dieser speziellen Waffe. Die Goblins bewegen sich nicht. Dass Tyrion sein Ziel trifft ist *äußerst wahrscheinlich*, wenn nicht sogar *gewiss*. Nachdem der erste Goblin zu Boden geht, läuft einer der beiden übrigen davon. Der andere hechtet hinter einen nahegelegenen Felsen, welcher ihn vollständig verdeckt. Den Goblin in Deckung zu treffen ist *unmöglich*, aber wenn Tyrion sich beeilt, wird er den fliehenden Goblin *wahrscheinlich* treffen, auch wenn es sich bei diesem nun um ein, sich bewegendes Ziel handelt.
 
-### Erkunden
-
-Das Erkunden und Entdecken verlaufen wie bei D&D: Die Spielleiter:in beschreibt die Umgebung, die Spieler:innen ihrer Gedanken und Handlungen. Doch statt Proben auf konkrete Attribute abzulegen bewertet die Spielleiter:in Situation und Charaktere als ganzes und legt dann eine Wahrscheinlichkeitskategorie fest.
-
-**Beipiel**
-Tyrion entdeckt eine schwere, eisenbeschlagene Holztruhe. Das Schloss ist alt und massiv, der Schließmechanismus aber relativ simpel. Tyrion - obwohl kampferprobt - ist nicht der Stärkste und verlässt sich lieber auf sein Geschick. Fachkundig Schlossknacken, ist es **wahrscheinlich**, dass er das Schloss schnell und geräuschlos überwinden kann. Das Truhe mittels seines Dolches aufzubrechen wäre zwar eine denkbare Alternative, die Erfolgsaussichten aber **äußerst unwahrscheinlich**.
-
-### Soziale Interaktionen
-
-TODO
-
-### Kämpfen
-
-TODO
-
-#### Bewegen
-
-TODO
-
-#### Aktionen
-
-TODO
-
-#### Nahkampfangriffe
-
-TODO
-
-#### Fernkampfangriffe
-
-TODO
-
-#### Zauberangriffe
-
-TODO
-
-##### Magische Duelle
-
-TODO
-
-### Zustände
-
-TODO
-
-### Rasten
-
-TODO
-
 ## Charakter erstellen
+
+TODO
+
+### Inspiration
 
 TODO
 
@@ -139,15 +100,21 @@ TODO
 * Zauber:in      (-2  0  9  0  0) +7
 * Unterhalter:in (-2  1  3  5  0) +7
 
-### Talente und Schwächen
+#### Talente
+
+TODO
+* Fachkunde (einige Erfahrung)
+* Meisterschaft (z.B. 3+ Vertraute Waffen)
+
+#### Schwächen
 
 TODO
 
-### Fertigkeiten
+#### Fertigkeiten
 
 TODO
 
-### Zauber
+#### Zauber
 
 TODO
 
@@ -156,9 +123,107 @@ TODO
 TODO
 * 3 Punkte shiften
 
-### Inventar
+#### Ausrichtung
 
 TODO
+
+### Äußere Erscheinung
+
+TODO
+
+### Ausrüstung
+
+TODO
+
+#### Vertrautheit
+
+TODO
+
+## Charakter spielen
+
+### Erkunden
+
+Das Erkunden und Entdecken verlaufen wie bei D&D: Die Spielleiter:in beschreibt die Umgebung, die Spieler:innen ihrer Gedanken und Handlungen. Doch statt Proben auf konkrete Attribute abzulegen bewertet die Spielleiter:in Situation und Charaktere als ganzes und legt dann eine Wahrscheinlichkeitskategorie fest.
+
+**Beipiel**
+Tyrion entdeckt eine schwere, eisenbeschlagene Holztruhe. Das Schloss ist alt und massiv, der Schließmechanismus aber relativ simpel. Tyrion - obwohl kampferprobt - ist nicht der Stärkste und verlässt sich lieber auf sein Geschick. Fachkundig Schlossknacken, ist es **wahrscheinlich**, dass er das Schloss schnell und geräuschlos überwinden kann. Das Truhe mittels seines Dolches aufzubrechen wäre zwar eine denkbare Alternative, die Erfolgsaussichten aber **äußerst unwahrscheinlich**.
+
+### Soziale Interaktionen
+
+TODO
+
+### Kämpfen
+
+TODO
+
+#### Bewegen
+
+TODO
+
+#### Aktionen
+
+TODO
+* Anstrengende Aktionen kosten Ausdauer
+* Eine Runde aussetzen: 2 Ausdauer zurückerhalten
+* manche Aktionen können mehr Ausdauer verbrauchen (z.B. besonders aufwendige Zauber)
+
+#### Nahkampfangriffe
+
+TODO
+* Nahkampf: (Stärke + Geschick)/10 gerundet + 1W6
+* Angreifer gegen Verteidiger
+    * Angreifer gewinnt: Oberhand
+    * Verteidiger gewinnt: Verteidiger wird zum Angreifer
+* Bei mehreren Angreifern müssen alle Angriffe verteidigt und alle Angriffe gewonnen werden um die Oberhand zu bekommen.
+
+#### Fernkampfangriffe
+
+TODO
+* Regel
+    * Grundsätzlich: Fachkunde + Unbewegtes Ziel + Freier Schuss: Äußerst wahrscheinlich
+    * Laie: -1 / Meister: +1
+    * Bewegliches Ziel: -1
+    * Ablenkung: -2
+* Beispiel: 1H-Bogen
+    * Ich bin fachkundig, Ziel steht still, ich bin ungehindert-> äußerst wahrscheinlich
+    * Ich bin nicht fachkundig -> unwahrscheinlich
+    * Ziel bewegt sich -> wahrscheinlich
+    * Ich bin gehindert -> unwahrscheinlich
+    * Ich bin meisterhaft, Ziel bewegt sich -> äußerst wahrscheinlich
+* X Schuss kosten 1 Ausdauer
+
+#### Zauberangriffe
+
+TODO
+* 1 Zauber kostet 1 Ausdauer
+    * Cantrips kosten nichts
+    * Zauber die Aufrecht erhalten werden müssen kosten 1 Ausdauer pro Runde
+
+##### Magische Duelle
+
+TODO
+
+### Zustände
+
+TODO
+
+### Rasten
+
+TODO
+
+#### Kurze Rast
+
+TODO
+* Charaktere regenerieren um die Hälfte ihrer maximalen Ausdauer (abgerundet)
+* Erschöpfung geht nicht zurück
+* Erfordert: Ruhe, Wärme, ggf. Unterschlupf
+
+#### Lange Rast
+
+TODO
+* Charaktere regenerieren ihre gesamte Ausdauer
+* Erschöpfung geht zurück
+* Erfordert: Ruhe, Wärme, Proviant (wird verbraucht), Ruhe
 
 ## Charakter entwickeln
 
@@ -174,13 +239,80 @@ TODO
 
 ## Anhang
 
-### Talente
+TODO
 
-### Schwächen
+### Beispiel-Charaktere
+TODO
+* Druidin aus D&D
+* Barbar aus Diablo 3
+* Hexenmeister aus WoW
+* Minion Master aus Guild Wars
+* Sneaky Bogen Rogue aus Skyrim
+* Wukong aus League of Legends
+* Yedi-Ritter
+* Avatar Aang
 
-### Fertigkeiten
+### Liste der Talente
 
-### Zauber
+TODO
+* Leichte Rüstung (z.B. Leder)
+* Mittelschwere Rüstung (z.B. Ketten)
+* Schwere Rüstung (z.B. Eisenplatten)
+* Dolch
+* Kurzschwert
+* Langschwert
+* Axt
+* Kriegsaxt
+* Hammerh (inkl. Keulen)
+* Streithammer
+* Stangenwaffe
+* Speer
+* Wurfmesser
+* Wurfaxt
+* Schleuder
+* Kurzbogen
+* Langbogen
+* Armbrust
+* Schild
+* Gute Reflexe (Kämpfer)
+* Guter Orientierungssinn (Waldläufer)
+* Gutes Gedächtnis (Zauberer)
+* Gute Menschenkenntnis (Unterhalter)
+
+### Liste der Schwächen
+
+TODO
+* Gier
+
+### Liste der Fertigkeiten
+
+TODO
+
+### Liste der Zauber
+
+TODO
+* Arkan
+* Feuer
+* Wasser
+* Luft
+* Erde
+* Heilig
+* Unheilig
+
+### Liste der Zustände
+
+TODO
+
+#### Erschöpfung
+
+TODO
+* Wer Ausdauer ausgibt, die er nicht hat, wird erschöpft
+* Stufe 1: Beim Rasten wird nur die halbe Ausdauer (abgerundet) wiederhergestellt und die Erschöpfung aufgehoben
+* Stufe 2: Beim Rasten wird keine Ausdauer wiederhergestellt, stattdessen wird die Erschöpfung um eine Stufe reduziert
+* Stufe 3: wie 2, außerdem verliert der Charakter 1 Stärke
+* Stufe 4: wie 2, außerdem verliert der Charakter 1 Stärke, 1 Geschick, 1 Wissen, 1 Charisma und 1 Ausdauer
+* Stufe 5: wie 2, außerdem wird der Charakter ohnmächtig
+* Stufe 6: Tod
 
 ### Copyright-Hinweis
 
