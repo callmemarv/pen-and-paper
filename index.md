@@ -26,7 +26,7 @@ TODO
 
 ## Spielregeln
 
-### Die Spielleiter:in hat Recht
+### Die Spielleiter:in hat immer Recht
 
 Wie auch bei D&D gilt im Zweifel die Entscheidung der Spielleiter:in. Diese:r ist für die Entwicklung der Geschichte verantwortlich und darf sich vorbehalten, die Regeln zu diesem Zweck zu interpretieren, zu verändern und zu brechen.
 
@@ -53,7 +53,7 @@ Die Spielleiter:in entscheidet im Einzelfall, ob die Gruppe die Erfolgswahrschei
 
 **Beispiel**
 
-TODO
+Tyrion schleicht sich bis auf 20m an eine Gruppe von 3 Goblins heran, nimmt seinen Kurzbogen zur Hand und legt an. Er ist geübt im Umgang mit Kurzbögen und vertraut mit dieser speziellen Waffe. Die Goblins bewegen sich nicht. Dass Tyrion sein Ziel trifft ist *äußerst wahrscheinlich*, wenn nicht sogar *gewiss*. Nachdem der erste Goblin zu Boden geht läuft einer der beiden davon, der andere hechtet hinter einen nahegelegenen Felsen, welcher ihn vollständig verbirgt. Den Goblin in Deckung zu treffen ist *unmöglich*, aber wenn Tyrion sich beeilt, wird er den fliehenden Goblin *wahrscheinlich* treffen, auch wenn es sich bei diesem nun um ein, sich bewegendes Ziel handelt.
 
 ### Erkunden
 
