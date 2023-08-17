@@ -106,21 +106,38 @@ TODO
 
 TODO
 
-### Persönliche Geschichte
-
-TODO
-
 ### Attribute
 
 TODO
+* Stärke (STR)
+* Geschick (GES)
+* Wissen (WIS)
+* Charisma (CHA)
+* Ausdauer (AUS)
 
 ### Wesen
 
 TODO
+* Orks     ( 5  1 -1 -2  0) +3
+* Zwerge   ( 0  3  1 -1  0) +3
+* Elfen    (-2  0  5  0  0) +3
+* Menschen ( 0  0  0  3  0) +3
+
+### Alter
+
+TODO
+* Kinder      ( 5  5  5  5  5) =25
+* Jugendliche (15 15 15 15 10) =70
+* Erwachsene  (20 20 20 20 10) =90
+* Alte        (10 10 30 20  5) =75
 
 ### Klasse
 
 TODO
+* Kämpfer:in     ( 6  4 -2 -1  0) +7
+* Waldläufer:in  ( 2  5  2 -2  0) +7
+* Zauber:in      (-2  0  9  0  0) +7
+* Unterhalter:in (-2  1  3  5  0) +7
 
 ### Talente und Schwächen
 
@@ -134,6 +151,11 @@ TODO
 
 TODO
 
+### Persönliche Geschichte
+
+TODO
+* 3 Punkte shiften
+
 ### Inventar
 
 TODO
@@ -141,7 +163,6 @@ TODO
 ## Charakter entwickeln
 
 TODO
-
 * Attribute
 * Talente
 * Fertigkeiten
