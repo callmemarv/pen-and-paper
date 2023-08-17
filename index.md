@@ -71,7 +71,7 @@ TODO
 
 TODO
 
-### Magische Duelle
+#### Magische Duelle
 
 TODO
 
