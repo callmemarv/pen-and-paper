@@ -1,6 +1,6 @@
 ## Vorwort
 
-D&D ist ein großartiges Rollenspiel-System. Das komplexen Regelwerk bietet für fast alle Spielsituationen eine spezifische Mechanik. Im Gegenzug fordert es von den Spieler:innen den Umgang mit diesen Mechaniken beherrschen zu lernen. Das ist zeitaufwendig und kann vor allem neue Spieler:innen überfordern, was den Spielspaß dämpft. Ich glaube, dass die meisten Spielsituationen auch mit weniger komplexen Mechaniken spielbar wären.
+D&D ist ein großartiges Rollenspiel-System. Das komplexe Regelwerk bietet für fast alle Spielsituationen eine spezifische Mechanik. Im Gegenzug fordert es von den Spieler:innen den Umgang mit diesen Mechaniken beherrschen zu lernen. Das ist zeitaufwendig und kann vor allem neue Spieler:innen überfordern, was den Spielspaß dämpft. Ich glaube, dass die meisten Spielsituationen auch mit weniger komplexen Mechaniken spielbar wären.
 
 Der offizielle *Dungeon Master's Guide* ermutigt Spielleiter:innen, für die eigene Kampagne deutlich von den bestehenden Regeln abzuweichen, wenn sie glauben, dass damit dem Spielspaß der Gruppe gedient ist. Dieses Rollenspielsystem tut genau das.
 
@@ -9,6 +9,8 @@ Der offizielle *Dungeon Master's Guide* ermutigt Spielleiter:innen, für die eig
 TODO
 
 ## Spielregeln
+
+Dieses Kapitel beschreibt die allgemeinen Regeln dieses Spielsystems.
 
 ### Abweichungen von D&D-Regeln
 
@@ -59,46 +61,131 @@ Die Spielleiter:in entscheidet im Einzelfall, ob die Gruppe die Erfolgswahrschei
 
 Tyrion schleicht sich bis auf 20m an eine Gruppe von 3 Goblins heran, nimmt seinen Kurzbogen zur Hand und legt an. Er ist geübt im Umgang mit Kurzbögen und vertraut mit dieser speziellen Waffe. Die Goblins bewegen sich nicht. Dass Tyrion sein Ziel trifft ist *äußerst wahrscheinlich*, wenn nicht sogar *gewiss*. Nachdem der erste Goblin zu Boden geht, läuft einer der beiden übrigen davon. Der andere hechtet hinter einen nahegelegenen Felsen, welcher ihn vollständig verdeckt. Den Goblin in Deckung zu treffen ist *unmöglich*, aber wenn Tyrion sich beeilt, wird er den fliehenden Goblin *wahrscheinlich* treffen, auch wenn es sich bei diesem nun um ein, sich bewegendes Ziel handelt.
 
+### Abrunden
+
+In diesem Spielsystem werden manchmal Werte berechnet. Sollte das Endergebnis keine ganze Zahl sein, wird auf das die nächste ganze Zahl abgerundet.
+
 ## Charakter erstellen
 
-TODO
+Dieses Kapitel beschreibt, wie du einen Charakter für dieses Spielsystem erstellen kannst. Du kannst dabei Abschnitt für Abschnitt vorgehen. Am besten legst du dir vorher Notizblätter für die folgenden Dinge bereit:
+
+* Charakterbeschreibung und Attribute
+* Talente und Schwächen
+* Fertigkeiten und Zauber
+* Ausrüstung
+* Schmierzettel
 
 ### Inspiration
 
-TODO
+Als erstes solltest du dir Gedanken darüber machen, was den Kern deines Charakters ausmacht? Ist er groß oder klein? Besonders stark, beweglich oder intelligent? Wortkarg und hinterhältig oder geduldig und rechtschaffend? Löst er Konflikte mit Worten, mächtigen Zaubern oder roher Gewalt? Vielleicht dient ein Charakter aus einem anderen Fantasy-Universum als Vorlage. Dein Charakter könnte ein Yedi aus *Star Wars* sein, der statt einem Lichtschwert ein brennendes Schwert führt und statt auf die Macht auf Luftmagie setzt, wie Aang aus *Avatar: The Last Airbender*.
+
+Sprich mit deiner Spielleiter:in über deine Ideen und Wünsche und findet gemeinsam einen Weg, den Charakter plausibel in die Spielwelt zu integrieren.
 
 ### Attribute
 
-TODO
-* Stärke (STR)
-* Geschick (GES)
-* Wissen (WIS)
-* Charisma (CHA)
-* Ausdauer (AUS)
+Dein Charakter hat 5 Attribute.
 
-### Wesen
+Die **Stärke (STK)** gibt die physische Kraft deines Charakters an und bestimmt über seine Erfolgschancen bei körperlich anstrengenden Aufgaben, wie z.B. dem Aufbrechen einer Tür oder einem Faustkampf.
 
-TODO
-* Orks     ( 5  1 -1 -2  0) +3
-* Zwerge   ( 0  3  1 -1  0) +3
-* Elfen    (-2  0  5  0  0) +3
-* Menschen ( 0  0  0  3  0) +3
+Das **Geschick (GES)** steht für die Beweglichkeit, Geschicklichkeit und Reflexe deines Charakters und kommt ihm z.B. bei Schleichen oder Bogenschießen zugute.
+
+Das **Wissen (WIS)** trifft eine Aussage über die Geisteskräfte deines Charakters und ist entscheidend für das Wirken von Zaubern und das Lösen von Rätseln.
+
+Das **Charisma (CHA)** deines Charakters bestimmt die Ausstrahlung und die rhetorischen Fähigkeiten deines Charakters und bedingt, wie viel Einfluss dieser auf andere Wesen hat.
+
+Die **Ausdauer (AUS)** drückt das Durchhaltevermögen deines Charakters aus. Je mehr Ausdauer dieser besitzt, desto mehr anstrengede Aktionen kann er ausführen, bevor er eine Rast einlegen muss.
+
+Schreibe die Basiswerte nebeneinander auf deinen Schmierzettel!
+
+<table>
+<thead>
+<tr><th></th><th>STK</th><th>GES</th><th>WIS</th><th>CHA</th><th>AUS</th><th><em>Summe</em></th></tr>
+</thead>
+<tbody>
+<tr><td>Basiswert</td><td>20</td><td>20</td><td>20</td><td>20</td><td>10</td><td><em>90</em></td></tr>
+</tbody>
+</table>
+
+### Art
+
+Wähle von welcher eine Art dein Charakter sein soll und schreibe die entsprechenden Wertanpassungen unter die Basiswerte auf deinen Schmierzettel!
+
+<table>
+<thead>
+<tr><th></th><th>STK</th><th>GES</th><th>WIS</th><th>CHA</th><th>AUS</th><th><em>Summe</em></th></tr>
+</thead>
+<tbody>
+<tr><td>Elfe</td><td>-2</td><td></td><td>5</td><td></td><td></td><td><em>+3</em></td></tr>
+<tr><td>Menschen</td><td>1</td><td>1</td><td></td><td>1</td><td></td><td><em>+3</em></td></tr>
+<tr><td>Orks</td><td>5</td><td>1</td><td>-1</td><td>-2</td><td></td><td><em>+3</em></td></tr>
+<tr><td>Zwerge</td><td></td><td>2</td><td>2</td><td>-1</td><td></td><td><em>+3</em></td></tr>
+</tbody>
+</table>
+
+Du möchtest einen Halb-Ork oder eine völlig anderen Art von Wesen spielen? Sprich mit deiner Spielleiter:in und überlegt euch gemeinsam, wie die Attribute entsprechend angepasst werden können. Vielleicht könnt ihr niedrigere Attribute auch durch Talente oder Fertigkeiten ausgleichen.
 
 ### Alter
 
-TODO
-* Kinder      ( 5  5  5  5  5) =25
-* Jugendliche (15 15 15 15 10) =70
-* Erwachsene  (20 20 20 20 10) =90
-* Alte        (10 10 30 20  5) =75
+Dieses Spielsystem geht davon aus, dass alle Abenteurer:innen erwachsene Charaktere sind. Die Basiswerte sind entsprechend ausgelegt. Du möchtest eine jugendlichen Tunichtgut oder eine weise alte Frau spielen? Dann kannst du die Attribute deines Charakters wie folgt anpassen.
+
+<table>
+<thead>
+<tr><th></th><th>STK</th><th>GES</th><th>WIS</th><th>CHA</th><th>AUS</th><th><em>Summe</em></th></tr>
+</thead>
+<tbody>
+<tr><td>Alte</td><td>-10</td><td>-10</td><td>+10</td><td>-5</td><td>-5</td><td><em>-20</em></td></tr>
+<tr><td>Jugendliche</td><td>-5</td><td>-5</td><td>-5</td><td>-5</td><td></td><td><em>-20</em></td></tr>
+<tr><td>Kinder</td><td>-15</td><td>-15</td><td>-15</td><td>-15</td><td>-5</td><td><em>-65</em></td></tr>
+</tbody>
+</table>
 
 ### Klasse
 
+In diesem Spielsystem gibt es keine Klassen. Trotzdem lässt sich dein Charakter sicher einem der folgenden Archetypen zuordnen. Wenn nicht, dann kreire zusammen mit deiner Spielleiter:in einen eigenen Archetypen.
+
+<table>
+<thead>
+<tr><th></th><th>STK</th><th>GES</th><th>WIS</th><th>CHA</th><th>AUS</th><th><em>Summe</em></th></tr>
+</thead>
+<tbody>
+<tr><td>Bard:in</td><td>-2</td><td>+1</td><td>+3</td><td>+5</td><td></td><td><em>+7</em></td></tr>
+<tr><td>Kämpfer:in</td><td>+6</td><td>+4</td><td>-2</td><td>-1</td><td></td><td><em>+7</em></td></tr>
+<tr><td>Waldläufer:in</td><td>+2</td><td>+5</td><td>+2</td><td>-2</td><td></td><td><em>+7</em></td></tr>
+<tr><td>Zauber:in</td><td>-2</td><td></td><td>+9</td><td></td><td></td><td><em>+7</em></td></tr>
+</tbody>
+</table>
+
 TODO
-* Kämpfer:in     ( 6  4 -2 -1  0) +7
-* Waldläufer:in  ( 2  5  2 -2  0) +7
-* Zauber:in      (-2  0  9  0  0) +7
-* Unterhalter:in (-2  1  3  5  0) +7
+* Dieb:in
+* Druid:in
+* Kleriker:in
+* Ausdauer anpassen? Ja: Krieger > Barde VS Nein: Lediglich andere Form der Ausdauer
+
+### Persönliche Geschichte
+
+Sofern es sich bei deinem Charakter um eine erwachsene Person handelt, müsste dieser nun in Summe 100 Punkte auf seine Attribute verteilt haben. Nimmer dir nun Zeit um die persönliche Geschichte deines Charakters niederzuschreiben. Wie ist dieser aufgewachsen? Welche Bildung und Aubildung wurde ihm zuteil? Wieso hat er seine Heimat verlassen und was hat ihn veranlasst Abenteurer:in zu werden? Wenn du dir über diese Dinge klar geworden bist und sie mit deiner Spielleiter:in besprochen hast, darfst du bis zu drei Attributpunkte frei umverteilen, um deinem Charakter seine ganz persönliche Note zu verleihen. Notiere die Attribute anschließend in deiner Charakterbeschreibung!
+
+### Duellwertung
+
+Aus den Attributen deines Charakters ergibt sich seine Duellwertung für physische und magische Duelle:
+
+**Duellwertung** = (STK + GES) / 10
+**Magische Duellwertung** = (WIS + CHA) / 10
+
+Notiere deine Duellwertung in deiner Charakterbeschreibung!
+
+#### Ausrichtung
+
+Nachdem du deinen Charakter nun schon sehr genau beschrieben hast, fällt es dir sicher leicht, seine Ausrichtung zu bestimmen. Wähle dazu je einen Wert der folgenden beiden Dimensionen!
+
+* Ordnung VS. Chaos (Lawful, Neutral, Chaotic)
+* Gut VS. Böse (Good, Neutral, Evil)
+
+Notiere deine Ausrichtung in deiner Charakterbeschreibung!
+
+### Äußere Erscheinung
+
+Runde deine Charakterbeschreibung ab und beschreibe das äußere deines Charakters! Wie lautet sein Name? Wie groß ist er? Wie alt? Und welche Haar- und Augenfarbe hat er? Welche Besonderheiten zeichen ihn aus?
 
 #### Talente
 
@@ -118,19 +205,6 @@ TODO
 
 TODO
 
-### Persönliche Geschichte
-
-TODO
-* 3 Punkte shiften
-
-#### Ausrichtung
-
-TODO
-
-### Äußere Erscheinung
-
-TODO
-
 ### Ausrüstung
 
 TODO
@@ -139,20 +213,31 @@ TODO
 
 TODO
 
+#### Gruppen-Inventar
+
+TODO
+
 ## Charakter spielen
+
+TODO
 
 ### Erkunden
 
 Das Erkunden und Entdecken verlaufen wie bei D&D: Die Spielleiter:in beschreibt die Umgebung, die Spieler:innen ihrer Gedanken und Handlungen. Doch statt Proben auf konkrete Attribute abzulegen bewertet die Spielleiter:in Situation und Charaktere als ganzes und legt dann eine Wahrscheinlichkeitskategorie fest.
 
 **Beipiel**
-Tyrion entdeckt eine schwere, eisenbeschlagene Holztruhe. Das Schloss ist alt und massiv, der Schließmechanismus aber relativ simpel. Tyrion - obwohl kampferprobt - ist nicht der Stärkste und verlässt sich lieber auf sein Geschick. Fachkundig Schlossknacken, ist es **wahrscheinlich**, dass er das Schloss schnell und geräuschlos überwinden kann. Das Truhe mittels seines Dolches aufzubrechen wäre zwar eine denkbare Alternative, die Erfolgsaussichten aber **äußerst unwahrscheinlich**.
+
+Tyrion entdeckt eine schwere, eisenbeschlagene Holztruhe. Das Schloss ist alt und massiv, der Schließmechanismus aber relativ simpel. Tyrion - obwohl kampferprobt - ist nicht der Stärkste und verlässt sich lieber auf sein Geschick. Fachkundig Schlossknacken, ist es *wahrscheinlich*, dass er das Schloss schnell und geräuschlos überwinden kann. Das Truhe mittels seines Dolches aufzubrechen wäre zwar eine denkbare Alternative, die Erfolgsaussichten aber *äußerst unwahrscheinlich*.
 
 ### Soziale Interaktionen
 
 TODO
 
 ### Kämpfen
+
+TODO
+
+#### Initiative
 
 TODO
 
@@ -175,6 +260,8 @@ TODO
     * Angreifer gewinnt: Oberhand
     * Verteidiger gewinnt: Verteidiger wird zum Angreifer
 * Bei mehreren Angreifern müssen alle Angriffe verteidigt und alle Angriffe gewonnen werden um die Oberhand zu bekommen.
+
+##### Duelle
 
 #### Fernkampfangriffe
 
@@ -242,6 +329,7 @@ TODO
 TODO
 
 ### Beispiel-Charaktere
+
 TODO
 * Druidin aus D&D
 * Barbar aus Diablo 3
