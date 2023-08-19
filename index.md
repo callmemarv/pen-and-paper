@@ -2,7 +2,7 @@
 
 D&D ist ein großartiges Rollenspiel-System. Das komplexe Regelwerk bietet für fast alle Spielsituationen eine spezifische Mechanik. Im Gegenzug fordert es von den Spieler:innen den Umgang mit diesen Mechaniken beherrschen zu lernen. Das ist zeitaufwendig und kann vor allem neue Spieler:innen überfordern, was den Spielspaß dämpft. Ich glaube, dass die meisten Spielsituationen auch mit weniger komplexen Mechaniken spielbar wären.
 
-Der offizielle *Dungeon Master's Guide* ermutigt Spielleiter:innen, für die eigene Kampagne deutlich von den bestehenden Regeln abzuweichen, wenn sie glauben, dass damit dem Spielspaß der Gruppe gedient ist. Dieses Rollenspielsystem tut genau das.
+Der offizielle *Dungeon Master's Guide®* ermutigt Spielleiter:innen, für die eigene Kampagne deutlich von den bestehenden Regeln abzuweichen, wenn sie glauben, dass damit dem Spielspaß der Gruppe gedient ist. Dieses Rollenspielsystem tut genau das.
 
 ## Inhalt
 
@@ -30,7 +30,7 @@ In diesem Spielsystem gibt es deshalb
 
 ### Rückgriff auf D&D-Regeln
 
-Dieses Spielsystem ist - technisch gesehen - eine Erweiterung der offiziellen D&D-Regeln. Das bedeutet, dass Spieler:innen grundsätzlich auf diese zurückgreifen sollten, wenn dieses Spielsystem keine Regel für eine bestimmte Spielsituation bietet. So gelten beispielsweise das Währungssystem sowie die Richtwerte dafür, wie lange es dauert, einen bestimmte Rüstung anzulegen oder wie weit Charaktere ohne Nachtsicht im Dunkeln sehen können, wie im offiziellen *Player's Handbook* beschrieben.
+Dieses Spielsystem ist - technisch gesehen - eine Erweiterung der offiziellen D&D-Regeln. Das bedeutet, dass Spieler:innen grundsätzlich auf diese zurückgreifen sollten, wenn dieses Spielsystem keine Regel für eine bestimmte Spielsituation bietet. So gelten beispielsweise das Währungssystem sowie die Richtwerte dafür, wie lange es dauert, einen bestimmte Rüstung anzulegen oder wie weit Charaktere ohne Nachtsicht im Dunkeln sehen können, wie im offiziellen *Player's Handbook®* beschrieben.
 
 ### Die Spielleiter:in hat immer Recht
 
@@ -333,7 +333,7 @@ Dein Charakter wirkt einen Zauber oder konzentriert sich darauf, einen gewirkten
 
 Dein Charakter tut etwas, das nicht zu einer der beschriebenen Aktionen gezählt werden kann. Beschreibe genau, wie du dir den Ablauf deiner improvisierten Aktion vorstellst.
 
-Zum Improvisieren gehören auch die folgenden, im *Player's Handbook* besschrieben Aktionen:
+Zum Improvisieren gehören auch die folgenden, im offiziellen *Player's Handbook®* besschrieben Aktionen:
 
 * Verstecken
 * Dem Kampf entgehen (Disengage)
@@ -352,20 +352,24 @@ TODO
 ### Rasten
 
 TODO
+* Erfordert: Ruhe, Wärme, ggf. Unterschlupf
 
 #### Kurze Rast
 
 TODO
 * Charaktere regenerieren um die Hälfte ihrer maximalen Ausdauer (abgerundet)
 * Erschöpfung geht nicht zurück
-* Erfordert: Ruhe, Wärme, ggf. Unterschlupf
+
+**Beipiel**
+
+TODO
 
 #### Lange Rast
 
 TODO
 * Charaktere regenerieren ihre gesamte Ausdauer
 * Erschöpfung geht zurück
-* Erfordert: Ruhe, Wärme, Proviant (wird verbraucht), Ruhe
+* Erfordert: ggf. Proviant (wird verbraucht)
 
 ## Charakter entwickeln
 
@@ -382,18 +386,6 @@ TODO
 ## Anhang
 
 TODO
-
-### Beispiel-Charaktere
-
-TODO
-* Druidin aus D&D
-* Barbar aus Diablo 3
-* Hexenmeister aus WoW
-* Minion Master aus Guild Wars
-* Sneaky Bogen Rogue aus Skyrim
-* Wukong aus League of Legends
-* Yedi-Ritter
-* Avatar Aang
 
 ### Liste der Talente
 
@@ -457,9 +449,25 @@ TODO
 * Stufe 5: wie 2, außerdem wird der Charakter ohnmächtig
 * Stufe 6: Tod
 
+#### Stumm
+
+TODO
+
+### Beispiel-Charakter
+
+TODO
+* Druidin aus D&D
+* Barbar aus Diablo 3
+* Hexenmeister aus WoW
+* Minion Master aus Guild Wars
+* Sneaky Bogen Rogue aus Skyrim
+* Wukong aus League of Legends
+* Yedi-Ritter
+* Avatar Aang
+
 ### Copyright-Hinweis
 
-Wizards of the Coast, Dungeons & Dragons, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries. © 2015 Wizards. All Rights Reserved.
+Wizards of the Coast, Dungeons & Dragons®, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries. © 2015 Wizards. All Rights Reserved.
 
 This website is not affiliated with, endorsed, sponsored, or specifically approved by Wizards of the Coast LLC. This website may use the trademarks and other intellectual property of Wizards of the Coast LLC, which is permitted under Wizards' [Fan Site Policy](https://dnd.wizards.com/resources/fan-site-kit).
 
