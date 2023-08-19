@@ -10,12 +10,9 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    {% include head-custom.html %}
     <title>Pen & Paper</title>
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <p class="project-tagline">{{ site.description | default: site.github.project_tagline }}</p>
@@ -25,9 +22,9 @@
       {{ content }}
 
       <footer class="site-footer">
-        <span>Version 0.1.0-SNAPSHOT</span>
-        <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">Pen & Paper</a> ist ein Projekt von <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        <span class="site-footer-credits">Diese Seite wird von <a href="https://pages.github.com">GitHub Pages</a> gehostet.</span>
+        <span class="site-footer-credits">Version 1.0.0-SNAPSHOT</span>
+        <span class="site-footer-credits"><a href="{{ site.github.repository_url }}">Pen & Paper</a> ist ein Projekt von <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+        <span class="site-footer-credits">Diese Seite wird von <a href="https://pages.github.com">GitHub Pages</a> gehostet. (Theme: <a href="https://github.com/pages-themes/cayman">Cayman</a></span>
       </footer>
     </main>
   </body>
