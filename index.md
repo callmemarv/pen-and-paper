@@ -77,7 +77,7 @@ Dieses Kapitel beschreibt, wie du einen Charakter für dieses Spielsystem erstel
 
 ### Inspiration
 
-Als erstes solltest du dir Gedanken darüber machen, was den Kern deines Charakters ausmacht? Ist er groß oder klein? Besonders stark, beweglich oder intelligent? Wortkarg und hinterhältig oder geduldig und rechtschaffend? Löst er Konflikte mit Worten, mächtigen Zaubern oder roher Gewalt? Vielleicht dient ein Charakter aus einem anderen Fantasy-Universum als Vorlage. Dein Charakter könnte ein Yedi aus *Star Wars* sein, der statt einem Lichtschwert ein brennendes Schwert führt und statt auf die Macht auf Luftmagie setzt, wie Aang aus *Avatar: The Last Airbender*.
+Als erstes solltest du dir Gedanken darüber machen, was den Kern deines Charakters ausmacht? Ist er groß oder klein? Besonders stark, beweglich oder intelligent? Wortkarg und hinterhältig oder geduldig und rechtschaffend? Löst er Konflikte mit Worten, mächtigen Zaubern oder roher Gewalt? Vielleicht dient ein Charakter aus einem anderen Fantasy-Universum als Vorlage. Dein Charakter könnte wie ein Yedi aus *Star Wars* sein, der statt einem Lichtschwert ein brennendes Schwert führt und statt auf die Macht auf Luftmagie setzt, wie Aang aus *Avatar: The Last Airbender*.
 
 Sprich mit deiner Spielleiter:in über deine Ideen und Wünsche und findet gemeinsam einen Weg, den Charakter plausibel in die Spielwelt zu integrieren.
 
@@ -85,15 +85,11 @@ Sprich mit deiner Spielleiter:in über deine Ideen und Wünsche und findet gemei
 
 Dein Charakter hat 5 Attribute.
 
-Die **Stärke (STK)** gibt die physische Kraft deines Charakters an und bestimmt über seine Erfolgschancen bei körperlich anstrengenden Aufgaben, wie z.B. dem Aufbrechen einer Tür oder einem Faustkampf.
-
-Das **Geschick (GES)** steht für die Beweglichkeit, Geschicklichkeit und Reflexe deines Charakters und kommt ihm z.B. bei Schleichen oder Bogenschießen zugute.
-
-Das **Wissen (WIS)** trifft eine Aussage über die Geisteskräfte deines Charakters und ist entscheidend für das Wirken von Zaubern und das Lösen von Rätseln.
-
-Das **Charisma (CHA)** deines Charakters bestimmt die Ausstrahlung und die rhetorischen Fähigkeiten deines Charakters und bedingt, wie viel Einfluss dieser auf andere Wesen hat.
-
-Die **Ausdauer (AUS)** drückt das Durchhaltevermögen deines Charakters aus. Je mehr Ausdauer dieser besitzt, desto mehr anstrengede Aktionen kann er ausführen, bevor er eine Rast einlegen muss.
+* **Stärke (STK)** gibt die physische Kraft deines Charakters an und bestimmt über seine Erfolgschancen bei körperlich anstrengenden Aufgaben, wie z.B. dem Aufbrechen einer Tür oder einem Faustkampf.
+* **Geschick (GES)** steht für die Beweglichkeit, Geschicklichkeit, Schnelligkeit und Reflexe deines Charakters und kommt ihm z.B. bei Schleichen oder Bogenschießen zugute.
+* **Wissen (WIS)** trifft eine Aussage über die Geisteskräfte deines Charakters und ist entscheidend für das Wirken von Zaubern und das Lösen von Rätseln.
+* **Charisma (CHA)** bestimmt die Ausstrahlung und die rhetorischen Fähigkeiten deines Charakters und bedingt, wie viel Einfluss dieser auf andere Wesen hat.
+* **Ausdauer (AUS)** drückt das Durchhaltevermögen deines Charakters aus. Je mehr Ausdauer dieser besitzt, desto mehr anstrengede Aktionen kann er ausführen, bevor er eine Rast einlegen muss.
 
 Schreibe die Basiswerte nebeneinander auf deinen Schmierzettel!
 
@@ -115,7 +111,7 @@ Wähle von welcher eine Art dein Charakter sein soll und schreibe die entspreche
 <tr><th></th><th>STK</th><th>GES</th><th>WIS</th><th>CHA</th><th>AUS</th><th><em>Summe</em></th></tr>
 </thead>
 <tbody>
-<tr><td>Elfe</td><td>-2</td><td></td><td>5</td><td></td><td></td><td><em>+3</em></td></tr>
+<tr><td>Elfen</td><td>-2</td><td></td><td>5</td><td></td><td></td><td><em>+3</em></td></tr>
 <tr><td>Menschen</td><td>1</td><td>1</td><td></td><td>1</td><td></td><td><em>+3</em></td></tr>
 <tr><td>Orks</td><td>5</td><td>1</td><td>-1</td><td>-2</td><td></td><td><em>+3</em></td></tr>
 <tr><td>Zwerge</td><td></td><td>2</td><td>2</td><td>-1</td><td></td><td><em>+3</em></td></tr>
@@ -126,7 +122,7 @@ Du möchtest einen Halb-Ork oder eine völlig anderen Art von Wesen spielen? Spr
 
 ### Alter
 
-Dieses Spielsystem geht davon aus, dass alle Abenteurer:innen erwachsene Charaktere sind. Die Basiswerte sind entsprechend ausgelegt. Du möchtest eine jugendlichen Tunichtgut oder eine weise alte Frau spielen? Dann kannst du die Attribute deines Charakters wie folgt anpassen.
+Dieses Spielsystem geht davon aus, dass alle Abenteurer:innen erwachsene Charaktere sind. Die Basiswerte sind entsprechend ausgelegt. Du möchtest einen jugendlichen Tunichtgut oder eine weise alte Frau spielen? Dann kannst du die Attribute deines Charakters wie folgt anpassen.
 
 <table>
 <thead>
@@ -158,50 +154,53 @@ In diesem Spielsystem gibt es keine Klassen. Trotzdem lässt sich dein Charakter
 TODO
 * Dieb:in
 * Druid:in
+* Hexenmeister:in
 * Kleriker:in
-* Ausdauer anpassen? Ja: Krieger > Barde VS Nein: Lediglich andere Form der Ausdauer
+* Mönch:in
+* Priester:in
 
 ### Persönliche Geschichte
 
 Sofern es sich bei deinem Charakter um eine erwachsene Person handelt, müsste dieser nun in Summe 100 Punkte auf seine Attribute verteilt haben. Nimmer dir nun Zeit um die persönliche Geschichte deines Charakters niederzuschreiben. Wie ist dieser aufgewachsen? Welche Bildung und Aubildung wurde ihm zuteil? Wieso hat er seine Heimat verlassen und was hat ihn veranlasst Abenteurer:in zu werden? Wenn du dir über diese Dinge klar geworden bist und sie mit deiner Spielleiter:in besprochen hast, darfst du bis zu drei Attributpunkte frei umverteilen, um deinem Charakter seine ganz persönliche Note zu verleihen. Notiere die Attribute anschließend in deiner Charakterbeschreibung!
+
+#### Ausrichtung
+
+Nachdem du deinen Charakter nun schon sehr genau beschrieben hast, fällt es dir sicher leicht, seine Ausrichtung zu bestimmen. Wähle dazu je einen Wert der folgenden beiden Dimensionen!
+
+* Lawful / Neutral / Chaotic (Ordnung VS. Chaos)
+* Good / Neutral / Evil (Gut VS. Böse)
+
+Notiere deine Ausrichtung in deiner Charakterbeschreibung!
+
+#### Äußere Erscheinung
+
+Runde deine Charakterbeschreibung ab und beschreibe das äußere deines Charakters! Wie lautet sein Name? Wie groß ist er? Wie alt? Und welche Haar- und Augenfarbe hat er? Welche Besonderheiten zeichen ihn aus?
 
 ### Duellwertung
 
 Aus den Attributen deines Charakters ergibt sich seine Duellwertung für physische und magische Duelle:
 
 **Duellwertung** = (STK + GES) / 10
+
 **Magische Duellwertung** = (WIS + CHA) / 10
 
 Notiere deine Duellwertung in deiner Charakterbeschreibung!
 
-#### Ausrichtung
-
-Nachdem du deinen Charakter nun schon sehr genau beschrieben hast, fällt es dir sicher leicht, seine Ausrichtung zu bestimmen. Wähle dazu je einen Wert der folgenden beiden Dimensionen!
-
-* Ordnung VS. Chaos (Lawful, Neutral, Chaotic)
-* Gut VS. Böse (Good, Neutral, Evil)
-
-Notiere deine Ausrichtung in deiner Charakterbeschreibung!
-
-### Äußere Erscheinung
-
-Runde deine Charakterbeschreibung ab und beschreibe das äußere deines Charakters! Wie lautet sein Name? Wie groß ist er? Wie alt? Und welche Haar- und Augenfarbe hat er? Welche Besonderheiten zeichen ihn aus?
-
-#### Talente
+### Talente
 
 TODO
 * Fachkunde (einige Erfahrung)
 * Meisterschaft (z.B. 3+ Vertraute Waffen)
 
-#### Schwächen
+### Schwächen
 
 TODO
 
-#### Fertigkeiten
+### Fertigkeiten
 
 TODO
 
-#### Zauber
+### Zauber
 
 TODO
 
@@ -227,32 +226,46 @@ Das Erkunden und Entdecken verlaufen wie bei D&D: Die Spielleiter:in beschreibt 
 
 **Beipiel**
 
-Tyrion entdeckt eine schwere, eisenbeschlagene Holztruhe. Das Schloss ist alt und massiv, der Schließmechanismus aber relativ simpel. Tyrion - obwohl kampferprobt - ist nicht der Stärkste und verlässt sich lieber auf sein Geschick. Fachkundig Schlossknacken, ist es *wahrscheinlich*, dass er das Schloss schnell und geräuschlos überwinden kann. Das Truhe mittels seines Dolches aufzubrechen wäre zwar eine denkbare Alternative, die Erfolgsaussichten aber *äußerst unwahrscheinlich*.
+Tyrion entdeckt eine schwere, eisenbeschlagene Holztruhe. Das Schloss ist alt und massiv, der Schließmechanismus aber relativ simpel. Tyrion - obwohl kampferprobt - ist nicht der Stärkste und verlässt sich lieber auf sein Geschick. Fachkundig im Schlossknacken, ist es *wahrscheinlich*, dass er das Schloss schnell und geräuschlos überwinden kann. Das Truhe mittels seines Dolches aufzubrechen wäre zwar eine denkbare Alternative, ein Erfolg aber *äußerst unwahrscheinlich*.
 
 ### Soziale Interaktionen
 
-TODO
+Auch soziale Interaktionen laufen ab wie bei D&D. Bei Ereignissen, deren Ausgang ungewiss ist, bewertet die Spielleiter:in die Gesamtsituation (Kontext, Gesprächsverlauf und Charakterattribute, etc.) und legt eine Wahrscheinlichkeitskategorie fest.
+
+**Beipiel**
+
+Tyrion versucht die Wirtin des Gasthauses *Zum Wilden Eber* davon zu überzeugen, ihm einen Rabatt auf die Wochenmiete zu gewähren. Die Wirtin ist eine geizige Frau, das Wort Rabatt gehört eigentlich nicht zu ihrem Wortschatz. Doch Tyrion ist überzeugender Redner und hat der Wirting bereits zwei Mal aus der Patsche geholfen. Von ihr einen Rabatt zu erwirken wäre als *möglich*, mit ein bisschen Glück.
 
 ### Kämpfen
 
-TODO
+Der Ablauf und die Aktionen eines Kampfes sind grundsätzlich die gleichen, wie bei D&D.
 
 #### Initiative
 
-TODO
+Zu Beginn des Kampfes würfeln alle Beteiligten einen D20. Die Reihenfolge in der sie im Kampf Aktionen ausführen können, richtet sich nach der Reihenfolge ihres Würfelergebnisses.
 
-#### Bewegen
+##### Bewegen
 
-TODO
+Jeder Charakter kann sich während seines Zuges um bis zu 3 Meter bewegen. Die Bewegung kann vor, während und nach seiner Aktion ausgeführt werden. Die Besonderheiten eines Charakters, die Umstände des Kampfes und das umliegende Terrain können die Bewegung beeinflussen.
 
-#### Aktionen
+#### Aktionen und Reaktion
 
-TODO
-* Anstrengende Aktionen kosten Ausdauer
-* Eine Runde aussetzen: 2 Ausdauer zurückerhalten
-* manche Aktionen können mehr Ausdauer verbrauchen (z.B. besonders aufwendige Zauber)
+Ein Charakter kann in seinem Zug eine der folgenden Aktionen durführen:
 
-#### Nahkampfangriffe
+* Angreifen
+* Aufrappeln
+* Ausweichen
+* Durchatmen
+* Sprinten
+* Einen Gegenstand benutzen
+* Einen Zauber wirken
+* Improvisieren
+
+Eine Aktion durchzuführen kostet grundsätzlich einen Ausdauerpunkt, es sei denn, die Aktionsbeschreibung sagt etwas anderes. Wenn ein Charakter keine Ausdauerpunkte mehr hat und trotzdem eine Aktion ausführt, die Ausdauerpunkte kostet, erhält er stattdessen Erschöpfungspunkte in Höhe der Ausdauerkosten.
+
+Eine Aktion kann ggf. als Reaktion ausgeführt werden. Dazu bietet die Spielleiter:in einem Charakter an, seine Aktion vorzuziehen und stattdessen eine Reaktion auf ein Ereignis durchzuführen.
+
+##### Angreifen (Nahkampf)
 
 TODO
 * Nahkampf: (Stärke + Geschick)/10 gerundet + 1W6
@@ -261,9 +274,11 @@ TODO
     * Verteidiger gewinnt: Verteidiger wird zum Angreifer
 * Bei mehreren Angreifern müssen alle Angriffe verteidigt und alle Angriffe gewonnen werden um die Oberhand zu bekommen.
 
-##### Duelle
+###### Duell
 
-#### Fernkampfangriffe
+TODO
+
+##### Angreifen (Fernkampf)
 
 TODO
 * Regel
@@ -279,16 +294,56 @@ TODO
     * Ich bin meisterhaft, Ziel bewegt sich -> äußerst wahrscheinlich
 * X Schuss kosten 1 Ausdauer
 
-#### Zauberangriffe
+##### Angreifen (Zauber)
 
 TODO
 * 1 Zauber kostet 1 Ausdauer
     * Cantrips kosten nichts
     * Zauber die Aufrecht erhalten werden müssen kosten 1 Ausdauer pro Runde
 
-##### Magische Duelle
+###### Magisches Duell
 
 TODO
+
+##### Aufrappeln
+
+Dein Charakter steht vom Boden auf, wenn er zuvor auf dem Boden lag.
+
+##### Ausweichen
+
+Dein Charakter versucht einem Angriff auszuweichen. Kann nur als Reaktion genutzt werden.
+
+##### Durchatmen
+
+Dein Charakter erhält zwei Ausdauerpunkte, es sei denn er ist erschöpft.
+
+##### Sprinten
+
+Dein Charakter führt eine zusätzliche Bewegung aus.
+
+##### Einen Gegenstand benutzen
+
+Dein Charakter benutzt einen Gegenstand oder hebt einen Gegenstand vom Boden auf.
+
+##### Einen Zauber wirken
+
+Dein Charakter wirkt einen Zauber oder konzentriert sich darauf, einen gewirkten Zauber aufrecht zu erhalten.
+
+##### Improvisieren
+
+Dein Charakter tut etwas, das nicht zu einer der beschriebenen Aktionen gezählt werden kann. Beschreibe genau, wie du dir den Ablauf deiner improvisierten Aktion vorstellst.
+
+Zum Improvisieren gehören auch die folgenden, im *Player's Handbook* besschrieben Aktionen:
+
+* Verstecken
+* Dem Kampf entgehen (Disengage)
+* Nach etwas suchen
+* Eine Reaktion vorbereiten
+* Einem anderen Charakter helfen
+
+**Beispiel**
+
+Tyrion wird an seinem Lagerplatz von Wölfen überfallen. Er nutzt seine Aktion um den Wolf, der ihm am nächsten steht, mit seinem Wanderstab in Richtung seines Lagerfeuers zu stoßen. Tyrion ist sehr geschickt, der Wolf sehr agil. Die Spielleiter:in entscheidet, dass die Aktion zumindest *möglich* ist.
 
 ### Zustände
 
