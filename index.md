@@ -1,16 +1,18 @@
 ## Vorwort
 
-D&D ist ein großartiges Rollenspiel-System. Das komplexe Regelwerk bietet für fast alle Spielsituationen eine spezifische Mechanik. Im Gegenzug fordert es von den Spieler:innen den Umgang mit diesen Mechaniken beherrschen zu lernen. Das ist zeitaufwendig und kann vor allem neue Spieler:innen überfordern, was den Spielspaß dämpft. Ich glaube, dass die meisten Spielsituationen auch mit weniger komplexen Mechaniken spielbar wären.
+D&D ist ein großartiges Rollenspielsystem. Das komplexe Regelwerk bietet für fast alle Spielsituationen eine spezifische Mechanik. Im Gegenzug fordert es von den Spieler:innen den Umgang mit diesen Mechaniken beherrschen zu lernen. Das ist zeitaufwendig und kann vor allem neue Spieler:innen überfordern, was den Spielspaß dämpft. Ich glaube, dass die meisten Spielsituationen auch mit weniger komplexen Mechaniken spielbar wären.
 
-Der offizielle *Dungeon Master's Guide®* ermutigt Spielleiter:innen, für die eigene Kampagne deutlich von den bestehenden Regeln abzuweichen, wenn sie glauben, dass damit dem Spielspaß der Gruppe gedient ist. Dieses Rollenspielsystem tut genau das.
+Der offizielle *Dungeon Master's Guide®* ermutigt Spielleiter:innen, für die eigene Kampagne deutlich von den bestehenden Regeln abzuweichen, wenn sie glauben, dass damit dem Spielspaß der Gruppe gedient ist. Dieses Spielsystem tut genau das.
 
 ## Inhalt
 
 TODO
 
-## Spielregeln
+## Grundregeln
 
-Dieses Kapitel beschreibt die allgemeinen Regeln dieses Spielsystems.
+### Rückgriff auf D&D-Regeln
+
+Dieses Spielsystem ist - technisch gesehen - eine Erweiterung der offiziellen D&D-Regeln. Das bedeutet, dass Spieler:innen grundsätzlich auf diese zurückgreifen sollten, wenn dieses Spielsystem keine Regel für eine bestimmte Spielsituation bietet. So gelten beispielsweise das Währungssystem sowie die Richtwerte dafür, wie lange es dauert, einen bestimmte Rüstung anzulegen oder wie weit Charaktere ohne Nachtsicht im Dunkeln sehen können, wie im offiziellen *Player's Handbook®* beschrieben.
 
 ### Abweichungen von D&D-Regeln
 
@@ -27,14 +29,6 @@ In diesem Spielsystem gibt es deshalb
 * keine Lebenspunkte
 * keine Schadenspunkte
 * andere Kampfmechaniken
-
-### Rückgriff auf D&D-Regeln
-
-Dieses Spielsystem ist - technisch gesehen - eine Erweiterung der offiziellen D&D-Regeln. Das bedeutet, dass Spieler:innen grundsätzlich auf diese zurückgreifen sollten, wenn dieses Spielsystem keine Regel für eine bestimmte Spielsituation bietet. So gelten beispielsweise das Währungssystem sowie die Richtwerte dafür, wie lange es dauert, einen bestimmte Rüstung anzulegen oder wie weit Charaktere ohne Nachtsicht im Dunkeln sehen können, wie im offiziellen *Player's Handbook®* beschrieben.
-
-### Die Spielleiter:in hat immer Recht
-
-Wie auch bei D&D gilt im Zweifel die Entscheidung der Spielleiter:in. Diese:r ist für die Entwicklung der Geschichte verantwortlich und darf sich vorbehalten, die Regeln zu diesem Zweck zu interpretieren, zu verändern und zu brechen.
 
 ### Plausibilität und Wahrscheinlichkeit
 
@@ -60,6 +54,10 @@ Die Spielleiter:in entscheidet im Einzelfall, ob die Gruppe die Erfolgswahrschei
 **Beispiel**
 
 Tyrion schleicht sich bis auf 20m an eine Gruppe von 3 Goblins heran, nimmt seinen Kurzbogen zur Hand und legt an. Er ist geübt im Umgang mit Kurzbögen und vertraut mit dieser speziellen Waffe. Die Goblins bewegen sich nicht. Dass Tyrion sein Ziel trifft ist *äußerst wahrscheinlich*, wenn nicht sogar *gewiss*. Nachdem der erste Goblin zu Boden geht, läuft einer der beiden übrigen davon. Der andere hechtet hinter einen nahegelegenen Felsen, welcher ihn vollständig verdeckt. Den Goblin in Deckung zu treffen ist *unmöglich*, aber wenn Tyrion sich beeilt, wird er den fliehenden Goblin *wahrscheinlich* treffen, auch wenn es sich bei diesem nun um ein, sich bewegendes Ziel handelt.
+
+### Die Spielleiter:in hat immer Recht
+
+Wie auch bei D&D gilt im Zweifel die Entscheidung der Spielleiter:in. Diese:r ist für die Entwicklung der Geschichte verantwortlich und darf sich vorbehalten, die Regeln zu diesem Zweck zu interpretieren, zu verändern und zu brechen.
 
 ### Abrunden
 
@@ -157,7 +155,9 @@ TODO
 * Hexenmeister:in
 * Kleriker:in
 * Mönch:in
+* Paladin:in
 * Priester:in
+* Schaman:in
 
 ### Persönliche Geschichte
 
@@ -167,8 +167,8 @@ Sofern es sich bei deinem Charakter um eine erwachsene Person handelt, müsste d
 
 Nachdem du deinen Charakter nun schon sehr genau beschrieben hast, fällt es dir sicher leicht, seine Ausrichtung zu bestimmen. Wähle dazu je einen Wert der folgenden beiden Dimensionen!
 
-* Lawful / Neutral / Chaotic (Ordnung VS. Chaos)
-* Good / Neutral / Evil (Gut VS. Böse)
+* Gesetzestreu / Neutral / Chaotisch
+* Gut / Neutral / Böse
 
 Notiere deine Ausrichtung in deiner Charakterbeschreibung!
 
@@ -186,15 +186,13 @@ Aus den Attributen deines Charakters ergibt sich seine Duellwertung für physisc
 
 Notiere deine Duellwertung in deiner Charakterbeschreibung!
 
-### Talente
+### Talente und Schwächen
 
-TODO
-* Fachkunde (einige Erfahrung)
-* Meisterschaft (z.B. 3+ Vertraute Waffen)
+**Talente** spiegeln die Erfahrungen und besonderen Fähigkeiten deines Charakters wieder. Dazu gehören z.B. handwerkliche Kenntnisse, der Umgang mit bestimmten Gegenständen und Waffen oder das Wissen um Flora, Fauna und Geschichte eines bestimmten Gebiets. Herausragende Talente deines Charakters werden mit dem Hinweis *Meisterschaft* notiert.
 
-### Schwächen
+Zu den **Schwächen** deines Charakters zählen Ängste, schlechte Angewohnheiten, Süchte und sonstige negative Charakterzüge. Ist eine Schwäche besonders stark ausgeprägt, wird sie mit dem Hinweis *krankhaft* notiert.
 
-TODO
+Die Talente und Schwächen deines Charakters helfen dir und deiner Spielleiter:in dabei, einzuschätzen, ob die von dir beschriebenen Handlungen plausibel sind und Aussicht auf Erfolg haben.
 
 ### Fertigkeiten
 
@@ -217,8 +215,6 @@ TODO
 TODO
 
 ## Charakter spielen
-
-TODO
 
 ### Erkunden
 
@@ -384,8 +380,6 @@ TODO
 * Titel
 
 ## Anhang
-
-TODO
 
 ### Liste der Talente
 
