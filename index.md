@@ -25,11 +25,11 @@ Dieses Spielsystem bietet Regeln zum Erstellen, Spielen und Entwickeln von Chara
     * [Kämpfen](#kämpfen)
         * [Reihenfolge](#reihenfolge)
         * [Bewegen](#bewegen)
-        * [Aktionen und Reaktion](#aktionen-und-reaktion)
+        * [Aktionen und Reaktionen](#aktionen-und-reaktionen)
             * [Angreifen (Nahkampf)](#angreifen-nahkampf)
                 * [Duell](#duell)
             * [Angreifen (Fernkampf)](#angreifen-fernkampf)
-            * [Angreifen (Zauber)](#angreifen-zauber-)
+            * [Angreifen (Zauber)](#angreifen-zauber)
                 * [Magisches Duell](#magisches-duell)
             * [Aufrappeln](#aufrappeln)
             * [Ausweichen](#ausweichen)
@@ -58,7 +58,7 @@ Die Spielleiter:in ordnet die von den Spieler:innen beschriebene Aktionen, unter
 
 <table>
 <thead>
-<tr><th>Kategorie</th><th>Wahrscheinlichkeit</th><th>D20 für Erfolg</th></tr>
+<tr><th>Kategorie</th><th>Wahrscheinlichkeit</th><th>1W20 für Erfolg</th></tr>
 </thead>
 <tbody>
 <tr><td>gewiss</td><td>100%</td><td>-</td></tr>
@@ -75,7 +75,7 @@ Die Spielleiter:in entscheidet im Einzelfall, ob die Gruppe die Erfolgswahrschei
 
 **Beispiel**
 
-Tyrion schleicht sich bis auf 20m an eine Gruppe von 3 Goblins heran, nimmt seinen Kurzbogen zur Hand und legt an. Er ist geübt im Umgang mit Kurzbögen und vertraut mit dieser speziellen Waffe. Die Goblins bewegen sich nicht. Dass Tyrion sein Ziel trifft ist *äußerst wahrscheinlich*, wenn nicht sogar *gewiss*. Nachdem der erste Goblin zu Boden geht, läuft einer der beiden übrigen davon. Der andere hechtet hinter einen nahegelegenen Felsen, welcher ihn vollständig verdeckt. Den Goblin in Deckung zu treffen ist *unmöglich*, aber wenn Tyrion sich beeilt, wird er den fliehenden Goblin *wahrscheinlich* treffen, auch wenn es sich bei diesem nun um ein, sich bewegendes Ziel handelt.
+Tyrion schleicht sich bis auf 20m an eine Gruppe von 3 Goblins heran, nimmt seinen Kurzbogen zur Hand und legt an. Er ist geübt im Umgang mit Kurzbögen und vertraut mit dieser speziellen Waffe. Die Goblins bewegen sich nicht. Dass Tyrion sein Ziel trifft, ist *äußerst wahrscheinlich*, wenn nicht sogar *gewiss*. Nachdem der erste Goblin zu Boden geht, läuft einer der beiden übrigen davon. Der andere hechtet hinter einen nahegelegenen Felsen, welcher ihn vollständig verdeckt. Den Goblin in Deckung zu treffen ist *unmöglich*, aber wenn Tyrion sich beeilt, wird er den fliehenden Goblin *wahrscheinlich* treffen, auch wenn es sich bei diesem nun um ein, sich bewegendes Ziel handelt.
 
 ### Abrunden
 
@@ -83,7 +83,7 @@ In diesem Spielsystem werden manchmal Werte berechnet. Sollte das Endergebnis ke
 
 ## Charakter erstellen
 
-Dieses Kapitel beschreibt, wie du einen Charakter erstellen kannst. Du kannst dabei Abschnitt für Abschnitt vorgehen. Am besten legst du dir vorher folgende Notizblätter zurecht!
+Dieses Kapitel beschreibt, wie du einen Charakter erstellen kannst. Du kannst dabei Abschnitt für Abschnitt vorgehen. Am besten legst du dir vorher folgende Notizblätter zurecht.
 
 * Charakterbeschreibung und Attribute
 * Talente und Schwächen
@@ -99,11 +99,11 @@ Sprich mit deiner Spielleiter:in über deine Ideen und Wünsche und findet gemei
 
 ### Persönliche Geschichte
 
-Nimm dir nun Zeit um die persönliche Geschichte deines Charakters niederzuschreiben. Wie lautet sein Name? Zu welcher Art gehört er? Wie alt ist er? Wie ist dieser aufgewachsen? Welche Bildung und Aubildung wurde ihm zuteil? Wieso hat er seine Heimat verlassen und was hat ihn veranlasst, Abenteurer:in zu werden? Ist er gut oder böse, gesetzestreu oder gesetzlos?
+Nimm dir nun Zeit um die persönliche Geschichte deines Charakters aufzuschreiben! Wie lautet sein Name? Zu welcher Art gehört er? Wie alt ist er? Wie ist er aufgewachsen? Welche Bildung und Aubildung wurde ihm zuteil? Ist er gut oder böse, gesetzestreu oder gesetzlos? Wieso hat er seine Heimat verlassen und was hat ihn veranlasst, Abenteurer:in zu werden?
 
 ### Äußere Erscheinung
 
-Runde deine Charakterbeschreibung ab und beschreibe das äußere deines Charakters! Wie groß ist er? Und welche Haar- und Augenfarbe hat er? Welche Besonderheiten zeichen ihn aus?
+Runde die Beschreibung ab und beschreibe das äußere deines Charakters! Wie groß ist er? Und welche Haar- und Augenfarbe hat er? Welche Besonderheiten zeichen ihn aus?
 
 ### Attribute
 
@@ -113,9 +113,9 @@ Dein Charakter hat 5 Attribute.
 
 **Geschick (GES)** steht für die Beweglichkeit, Geschicklichkeit, Schnelligkeit und Reflexe deines Charakters und kommt ihm z.B. bei Schleichen oder Bogenschießen zugute.
 
-**Wissen (WIS)** trifft eine Aussage über die Geisteskräfte deines Charakters und ist entscheidend für das Wirken von Zaubern und das Lösen von Rätseln.
+**Wissen (WIS)** trifft eine Aussage über die Geisteskräfte deines Charakters und ist entscheidend für das Wirken von Zaubern.
 
-**Charisma (CHA)** bestimmt die Ausstrahlung und die rhetorischen Fähigkeiten deines Charakters und bedingt, wie viel Einfluss dieser auf andere Wesen hat.
+**Charisma (CHA)** bestimmt die Ausstrahlung, die rhetorischen Fähigkeiten und die Willenskraft deines Charakters und bedingt, wie viel Einfluss dieser auf andere Wesen hat.
 
 **Ausdauer (AUS)** drückt das Durchhaltevermögen deines Charakters aus. Je mehr Ausdauer dieser besitzt, desto mehr anstrengede Aktionen kann er ausführen, bevor er eine Rast einlegen muss.
 
@@ -150,15 +150,13 @@ Fertigkeiten sind Dinge, die dein Charakter tun kann. Dazu gehören die allgemei
 
 Zauber sind magische Fertigkeiten. Sie erfordern meist ein bestimmtes Maß an Wissen oder Charisma sowie ein Talent im Umgang mit der jeweiligen Art von Magie, zu der sie gehören.
 
-Um Fertigkeiten auszuführen und Zauber zu wirken wird Ausdauer benötigt.
-
 ### Ausrüstung
 
 Welche Gegenstände dein Charakter bei sich hat, richtet sich nach der Welt, die du mit deinen Mitspieler:innen und deiner Spielleiter:in erschaffst.
 
 #### Vertrautheit
 
-Benutzt dein Charakter einen bestimmten Gegenstand regelmäßig? Dann vermerke das dem Hinweis *vertraut*.
+Benutzt dein Charakter einen bestimmten Gegenstand regelmäßig? Dann vermerke dies mit dem Hinweis *vertraut*.
 
 **Beispiel**
 
@@ -172,15 +170,15 @@ Manche Gegenstände sind besonders wichtig für die Entwicklung der Geschichte. 
 
 ### Erkunden
 
-Beim Erkunden und Entdecken eurer Spielwelt beschreibt die Spielleiter:in die zunächste die Umgebung. Die Spieler:innen stellen Fragen und beschreiben die Gedanken und Handlungen ihrer Charaktere. Ist der Ausgang einer Handlung ungewiss, bewertet die Spielleiter:in Situation und Charaktere und legt dann eine Wahrscheinlichkeitskategorie fest.
+Beim Erkunden und Entdecken eurer Spielwelt beschreibt die Spielleiter:in die zunächste die Umgebung. Die Spieler:innen stellen Fragen und beschreiben die Gedanken und Handlungen ihrer Charaktere. Ist der Ausgang einer Handlung ungewiss, bewertet die Spielleiter:in die Gesamtsituation und legt dann eine Wahrscheinlichkeitskategorie fest.
 
 **Beipiel**
 
-Tyrion entdeckt eine schwere, eisenbeschlagene Holztruhe. Das Schloss ist alt und massiv, der Schließmechanismus aber relativ simpel. Tyrion - obwohl kampferprobt - ist nicht der Stärkste und verlässt sich lieber auf sein Geschick. Fachkundig im Schlossknacken, ist es *wahrscheinlich*, dass er das Schloss schnell und geräuschlos überwinden kann. Das Truhe mittels seines Dolches aufzubrechen wäre zwar eine denkbare Alternative, ein Erfolg aber *äußerst unwahrscheinlich*.
+Tyrion entdeckt eine schwere, eisenbeschlagene Holztruhe. Das Schloss ist massiv, der Schließmechanismus aber relativ simpel. Tyrion ist nicht der Stärkste und verlässt sich lieber auf sein Geschick. Fachkundig im Schlossknacken, ist es *wahrscheinlich*, dass er das Schloss schnell und geräuschlos überwinden kann. Die Truhe mittels seines Dolches aufzubrechen wäre zwar eine denkbare Alternative, ein Erfolg aber *äußerst unwahrscheinlich*.
 
 ### Soziale Interaktionen
 
-Soziale Interaktionen verlaufen wie das Erkunden, wobei die Spielleiter:in alle Charaktere spielt, die nicht von Spieler:innen gespielt werden. Bei Ereignissen, deren Ausgang ungewiss ist, bewertet die Spielleiter:in die Gesamtsituation (Kontext, Gesprächsverlauf und Charakterattribute, etc.) und legt eine Wahrscheinlichkeitskategorie fest.
+Soziale Interaktionen verlaufen wie das Erkunden, wobei die Spielleiter:in alle Charaktere spielt, die nicht von Spieler:innen gespielt werden.
 
 **Beipiel**
 
@@ -190,13 +188,13 @@ Tyrion versucht die Wirtin des Gasthauses *Zum Wilden Eber* davon zu überzeugen
 
 #### Reihenfolge
 
-Zu Beginn des Kampfes würfeln alle Beteiligten einen D20. Die Reihenfolge in der sie im Kampf Aktionen ausführen können, richtet sich nach der Reihenfolge ihres Würfelergebnisses.
+Zu Beginn des Kampfes würfeln alle Beteiligten 1W20. Die Reihenfolge in der sie im Kampf Aktionen ausführen können, richtet sich nach der Reihenfolge ihres Würfelergebnisses.
 
 #### Bewegen
 
 Jeder Charakter kann sich während seines Zuges um bis zu 10 Meter bewegen. Die Bewegung kann vor, während und nach seiner Aktion ausgeführt werden. Die Besonderheiten eines Charakters, seine Ausrüstung, die Umstände des Kampfes und das umliegende Terrain können die Bewegung beeinflussen.
 
-#### Aktionen und Reaktion
+#### Aktionen und Reaktionen
 
 Ein Charakter kann in seinem Zug eine der folgenden Aktionen durchführen.
 
@@ -215,15 +213,15 @@ Eine Aktion kann ggf. als Reaktion ausgeführt werden. Dazu bietet die Spielleit
 
 ##### Angreifen (Nahkampf)
 
-Ein Charakter führt einen Nahkampfangriff auf ein Ziel aus, das sich in Reichweite befindet. Wenn das Ziel in der Lage ist, Nahkampfangriffe auszuführen fechten beide ein Duell aus. Kann das Ziel keinen Nahkampfangriff ausführen oder wird das Duell gewonnen, beschreibt die entsprechende Spieler:in, wie sie die Situation ausnutzen möchte. Wird das Duell verloren, beschreibt die Spielleiter:in, wie das angegriffene Ziel die Situation ausnutzen möchte.
+Ein Charakter führt einen Nahkampfangriff auf ein Ziel aus, das sich in Reichweite befindet. Wenn das Ziel in der Lage ist, Nahkampfangriffe auszuführen, kann es als Reaktion ein Duell mit dem angreifenden Charakter ausfechten. Kann das Ziel keinen Nahkampfangriff ausführen oder gewinnt der angreifende Charakter das Duell, beschreibt die zugehörige Spieler:in, wie sie die Situation nutzen möchte. Verliert der angreifende Charakter das Duell, beschreibt die Spielleiter:in, wie das angegriffene Ziel die Situation nutzt.
 
 ###### Duell
 
-Bei einem Duell versuchen zwei Wesen, das jeweils andere zu überwältigen. Das angreifende Wesen hat zunächst die Oberhand. Beide würfeln 1d6 und addieren ihre Duellwertung. Wenn das angreifende Wesen ein höheres Ergebnis hat, wird das verteidigende Wesen überwältigt und das Duell ist gewonnen. Ist das Ergebnis des verteidigenden Wesens höher, erlangt es die Oberhand und greift nun seinerseits an. Ist das Ergebnis gleich, gilt dieser Versuch als unentschieden, das angreifende Wese behält die Oberhand und greift erneut an. Ist nach 5 Versuchen keines der beiden Wesen siegreich, gilt das Duell als unentschieden.
+Bei einem Duell versuchen zwei Wesen, das jeweils andere zu überwältigen. Das angreifende Wesen hat zunächst die Oberhand. Beide würfeln 1W6 und addieren ihre Duellwertung. Wenn das angreifende Wesen ein höheres Ergebnis hat, wird das verteidigende Wesen überwältigt und das Duell ist gewonnen. Ist das Ergebnis des verteidigenden Wesens höher, erlangt es die Oberhand und greift nun seinerseits an. Ist das Ergebnis gleich, gilt dieser Versuch als unentschieden, das angreifende Wese behält die Oberhand und greift erneut an. Ist nach 5 Versuchen keines der beiden Wesen siegreich, gilt das Duell als unentschieden.
 
 ##### Angreifen (Fernkampf)
 
-Ein Charakter führt einen Fernkampfangriff auf ein Ziel aus. Die Spielleitering entscheidet, wie wahrscheinlich es ist, dass der Charakter sein Ziel trifft. Dazu sollten folgende Punkte beachtet werden.
+Ein Charakter führt einen Fernkampfangriff auf ein Ziel aus. Die Spielleiter:in entscheidet, wie wahrscheinlich es ist, dass der Charakter sein Ziel trifft. Dazu sollten folgende Punkte beachtet werden.
 
 * Hat der Charakter, ein Talent im Umgang mit der benutzten Waffe und erfüllt die Anforderungen um mit dieser Waffe einen Angriff auszuführen?
 * Hat der Charakter freie Sicht auf das Ziel?
@@ -255,7 +253,7 @@ Ein Charakter erhält zwei Ausdauerpunkte, es sei denn er ist erschöpft.
 
 ##### Sprinten
 
-Ein Charakter führt eine zusätzliche Bewegung aus.
+Ein Charakter führt eine zusätzliche Bewegung aus. Sprinten kostet 2 Ausdauerpunkte.
 
 ##### Einen Gegenstand benutzen
 
@@ -267,7 +265,7 @@ Ein Charakter wirkt einen Zauber oder erhält einen bereits gewirkten Zauber auf
 
 ##### Improvisieren
 
-Ein Charakter tut etwas, das nicht zu einer der beschriebenen Aktionen gezählt werden kann. Die Spieler:ing beschreibt genau, wie sie sich den Ablauf der improvisierten Aktion vorstellt. Die Spielleiter:in entscheidet über den Ausgang.
+Ein Charakter tut etwas, das nicht zu einer der beschriebenen Aktionen gezählt werden kann. Die Spieler:in beschreibt genau, wie sie sich den Ablauf der improvisierten Aktion vorstellt. Die Spielleiter:in entscheidet über den Ausgang.
 
 **Beispiel**
 
@@ -275,7 +273,7 @@ Tyrion wird an seinem Lagerplatz von Wölfen überfallen. Er nutzt seine Aktion 
 
 ### Zustände
 
-Die Zustände, die einen Charakter betreffen können richten sich nach der Welt, die du mit deinen Mitspieler:innen und deiner Spielleiter:in erschaffst. Die Zustände *Erschöpft* und *Liegend* sind jedoch so notwendig, um alle bereits beschriebenen Aktionen zu ermöglichen.
+Die Zustände, die einen Charakter betreffen können, richten sich nach der Welt, die du mit deinen Mitspieler:innen und deiner Spielleiter:in erschaffst. Die Zustände *Erschöpft* und *Liegend* sind jedoch notwendig, um die bereits beschriebenen Aktionen zu ermöglichen.
 
 #### Erschöpfung
 
@@ -290,17 +288,17 @@ Ein Charakter hat sich über seine Leistungsfähigkeit angestrengt. Die Stufe de
 <tr><td>2</td><td>Bei einer Rast wird keine Ausdauer zurückgewonnen und die Erschöpfung um 1 reduziert.</td></tr>
 <tr><td>3</td><td>Bei einer Rast wird keine Ausdauer zurückgewonnen. Bei einer langen Rast verliert der Charakter 1 STK und die Erschöpfung wird um 1 reduziert.</td></tr>
 <tr><td>4</td><td>Der Charakter wird ohnmächtig. Bei einer Rast wird keine Ausdauer zurückgewonnen. Bei einer langen Rast verliert der Charakter 1 STK, 1 GES, 1 WIS, 1 CHA und 1 AUS und die Erschöpfung wird um 1 reduziert.</td></tr>
-<tr><td>5</td><td>Der Charakter stirbt</td></tr>
+<tr><td>5</td><td>Der Charakter stirbt.</td></tr>
 </tbody>
 </table>
 
 #### Liegend
 
-Ein am Boden liegender Charakter kann keine Aktionen ausführen, zu deren Ausführung er stehen müsste. Stattdessen kann er die Aktion Aufrappeln ausführen.
+Ein am Boden liegender Charakter kann keine Aktionen ausführen, zu deren Ausführung er stehen müsste. Stattdessen kann er die Aktion Aufrappeln ausführen um vom Boden aufzustehen.
 
 ### Rasten
 
-Beim Rasten stellen Charaktere ihre Ausdauer wieder her. Die Spielleiter:in entscheidet, welche Umstände für eine erholsame Rast erfültt werden müssen, dazu gehören z.B. Ruhe, Wärme, ein Unterschlupf und Proviant.
+Beim Rasten stellen Charaktere ihre Ausdauer wieder her. Die Spielleiter:in entscheidet, welche Umstände für eine erholsame Rast erfüllt werden müssen, dazu gehören z.B. Ruhe, Wärme, ein Unterschlupf und Proviant.
 
 #### Kurze Rast
 
@@ -312,7 +310,7 @@ Bei einer langen Rast erhält ein Charakter seine gesamte Ausdauer zurück, es s
 
 ## Charakter entwickeln
 
-Um einen Charakter weiterzuentwickeln kann die Spielleiter:in erfolgreich absolvierte Spielsituationen belohnen. Als Belohnungen können unter anderem die folgenden Dinge dienen.
+Um einen Charakter weiterzuentwickeln kann die Spielleiter:in erfolgreich absolvierte Spielsituationen belohnen. Als Belohnungen können z.B. die folgenden Dinge dienen.
 
 * Attributpunkte
 * Ein neues Talent oder das Ablegen einer Schwäche
