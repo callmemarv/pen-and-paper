@@ -5,7 +5,7 @@ Dieses Spielsystem bietet Regeln zum Erstellen, Spielen und Entwickeln von Chara
 ## Inhalt
 
 * [Grundregeln](#grundregeln)
-    * [Die Spielleiter:in hat immer Recht](#die-spielleiter-in-hat-immer-recht)
+    * [Die Spielleiter:in hat immer Recht](#die-spielleiterin-hat-immer-recht)
     * [Plausibilität und Wahrscheinlichkeit](#plausibilität-und-wahrscheinlichkeit)
     * [Abrunden](#abrunden)
 * [Charakter erstellen](#charakter-erstellen)
@@ -26,10 +26,10 @@ Dieses Spielsystem bietet Regeln zum Erstellen, Spielen und Entwickeln von Chara
         * [Reihenfolge](#reihenfolge)
         * [Bewegen](#bewegen)
         * [Aktionen und Reaktion](#aktionen-und-reaktion)
-            * [Angreifen (Nahkampf)](#angreifen--nahkampf-)
+            * [Angreifen (Nahkampf)](#angreifen-nahkampf)
                 * [Duell](#duell)
-            * [Angreifen (Fernkampf)](#angreifen--fernkampf-)
-            * [Angreifen (Zauber)](#angreifen--zauber-)
+            * [Angreifen (Fernkampf)](#angreifen-fernkampf)
+            * [Angreifen (Zauber)](#angreifen-zauber-)
                 * [Magisches Duell](#magisches-duell)
             * [Aufrappeln](#aufrappeln)
             * [Ausweichen](#ausweichen)
@@ -39,7 +39,7 @@ Dieses Spielsystem bietet Regeln zum Erstellen, Spielen und Entwickeln von Chara
             * [Einen Zauber wirken](#einen-zauber-wirken)
             * [Improvisieren](#improvisieren)
     * [Zustände](#zustände)
-        * [Erschöpft](#erschöpft)
+        * [Erschöpfung](#erschöpfung)
         * [Liegend](#liegend)
     * [Rasten](#rasten)
         * [Kurze Rast](#kurze-rast)
@@ -123,12 +123,12 @@ Ein durchschnittlich begabter Charakter hat einen Attributwert von 20. Der Maxim
 
 Um die Startattribute deines Charakters zu bestimmen führe den folgenden Schritt insgesamt 5 Mal durch und notiere die Ergebnisse auf einem Schmierzettel!
 
-0. Würfel 4W6!
-0. Ignoriere den Würfel mit dem niedrigsten Ergebnis!
-0. Zähle die übringen 3 Ergebnisse zusammen!
-0. Zähle 12 dazu!
+0. Würfel 4W6
+0. Ignoriere den Würfel mit dem niedrigsten Ergebnis
+0. Zähle die übringen 3 Ergebnisse zusammen
+0. Zähle 12 dazu
 
-Weise nun jedem Attribut eines der Ergenisse zu!
+Weise nun jedem Attribut eines der Ergebnisse zu!
 
 #### Duellwertung
 
@@ -235,11 +235,11 @@ Ein besonders gutes Würfelergebnis sollte so interpretiert werden, dass der Cha
 
 ##### Angreifen (Zauber)
 
-Ein Charakter führt einen Zauber wie beschrieben aus.
+Ein Charakter führt einen Zauber wie beschrieben aus. Ergibt sich aus der Spielsituation, dass zwei Zauberwirkende ihre Zauber gegeneinander treffen lassen, kann die Spielleiter:in entscheiden, dass es zu einem Magischen Duell kommt.
 
 ###### Magisches Duell
 
-Ergibt sich aus der Spielsituation, dass zwei Zauberwirkende ihre Zauber gegeneinander treffen, kann die Spielleiter:in entscheiden, dass es zu einem Magischen Duell kommt. In diesem Fall wird das Duell analog dem Duell bei einem Nahkampfangriff ausgeführt, wobei die Magische Duellwertung herangezogen wird.
+Ein Magisches Duell wird ausgeführt, wie ein Nahkampfduell, nur, dass die Magische Duellwertung herangezogen wird.
 
 ##### Aufrappeln
 
@@ -277,7 +277,7 @@ Tyrion wird an seinem Lagerplatz von Wölfen überfallen. Er nutzt seine Aktion 
 
 Die Zustände, die einen Charakter betreffen können richten sich nach der Welt, die du mit deinen Mitspieler:innen und deiner Spielleiter:in erschaffst. Die Zustände *Erschöpft* und *Liegend* sind jedoch so notwendig, um alle bereits beschriebenen Aktionen zu ermöglichen.
 
-#### Erschöpft
+#### Erschöpfung
 
 Ein Charakter hat sich über seine Leistungsfähigkeit angestrengt. Die Stufe der Erschöpfung entspricht der Anzahl der Erschöpfungspunkte, die der Charakter besitzt. Die folgende Tabelle beschreibt die Auswirkungen der Stufen der Erschöpfung.
 
