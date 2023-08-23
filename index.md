@@ -1,6 +1,6 @@
 ## Idee
 
-Dieses Spielsystem bietet Regeln zum Erstellen, Spielen und Entwickeln von Charakteren für Fantasy-Rollenspiele. Ziel des Spielsystems ist es, den Spieler:innen einen einfachen Rahmen für das gemeinsame Gestalten von Abenteuern zu schaffen.
+Dieses Spielsystem bietet Regeln zum Erstellen, Spielen und Entwickeln von Charakteren für Fantasy-Rollenspiele. Ziel des Spielsystems ist es, einen einfachen Rahmen für das gemeinsame Gestalten von Abenteuern zu schaffen.
 
 ## Inhalt
 
@@ -128,7 +128,7 @@ Um die Startattribute deines Charakters zu bestimmen führe den folgenden Schrit
 0. Zähle die übringen 3 Ergebnisse zusammen
 0. Zähle 12 dazu
 
-Weise nun jedem Attribut eines der Ergebnisse zu!
+Weise nun jedem Attribut eines der Ergebnisse zu! Abschließend darfst du noch bis zu 3 Attributpunkte frei tauschen.
 
 #### Duellwertung
 
