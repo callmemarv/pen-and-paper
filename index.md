@@ -323,4 +323,4 @@ Um einen Charakter weiterzuentwickeln kann die Spielleiter:in erfolgreich absolv
 
 **Beispiel**
 
-Tyrion hat eine Gruppe Banditen besiegt und vertrieben. Aufgrund seiner Erfahrungen im Kampf erhält Tyrion 1 GES. Tyrion findet unter dem Diebesgut ein Buch über die Heilkräuter der Region. Die Lektüre verleiht ihm 1 WIS sowie die Fertigkeit *Heiltrank brauen*. Die Bewohner:innen des Dorfes, die unter den Banditen gelitten haben, ernennen ihn außerdem zum Ehrenbürger. Er genießt fortan ein höheres Ansehen und niedrigere Preise.
+Tyrion hat eine Gruppe Banditen besiegt und vertrieben. Aufgrund seiner Erfahrungen im Kampf erhält er 1 GES. Tyrion findet unter dem Diebesgut ein Buch über die Heilkräuter der Region. Die Lektüre verleiht ihm 1 WIS sowie die Fertigkeit *Heiltrank brauen*. Die Bewohner:innen des Dorfes, die unter den Banditen gelitten haben, ernennen ihn außerdem zum Ehrenbürger. Er genießt fortan ein höheres Ansehen und niedrigere Preise.
