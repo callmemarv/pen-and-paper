@@ -1,8 +1,6 @@
-## Vorwort
+## Idee
 
-D&D ist ein großartiges Rollenspielsystem. Das komplexe Regelwerk bietet für fast alle Spielsituationen eine spezifische Mechanik. Im Gegenzug fordert es von den Spieler:innen den Umgang mit diesen Mechaniken beherrschen zu lernen. Das ist zeitaufwendig und kann vor allem neue Spieler:innen überfordern, was den Spielspaß dämpft. Ich glaube, dass die meisten Spielsituationen auch mit weniger komplexen Mechaniken spielbar wären.
-
-Der offizielle *Dungeon Master's Guide®* ermutigt Spielleiter:innen, für die eigene Kampagne deutlich von den bestehenden Regeln abzuweichen, wenn sie glauben, dass damit dem Spielspaß der Gruppe gedient ist. Dieses Spielsystem tut genau das.
+Dieses Spielsystem bietet Regeln zum Erstellen, Spielen und Entwickeln von Charakteren für Fantasy-Rollenspiele. Ziel des Spielsystems ist es, den Spieler:innen einen einfachen Rahmen für das gemeinsame Gestalten von Abenteuern zu schaffen.
 
 ## Inhalt
 
@@ -10,29 +8,13 @@ TODO
 
 ## Grundregeln
 
-### Rückgriff auf D&D-Regeln
+### Die Spielleiter:in hat immer Recht
 
-Dieses Spielsystem ist - technisch gesehen - eine Erweiterung der offiziellen D&D-Regeln. Das bedeutet, dass Spieler:innen grundsätzlich auf diese zurückgreifen sollten, wenn dieses Spielsystem keine Regel für eine bestimmte Spielsituation bietet. So gelten beispielsweise das Währungssystem sowie die Richtwerte dafür, wie lange es dauert, einen bestimmte Rüstung anzulegen oder wie weit Charaktere ohne Nachtsicht im Dunkeln sehen können, wie im offiziellen *Player's Handbook®* beschrieben.
-
-### Abweichungen von D&D-Regeln
-
-Dieses Spielsystem soll das Erstellen und Spielen von Charakteren vereinfachen.
-
-In diesem Spielsystem gibt es deshalb
-* keine Klassen, nur Talente, Fertigkeiten und Zauber
-* keine Charakter-Level, sondern eine auf Attributen basierende Entwicklung
-* keine Spell-Slots, sondern eine Ausdauer-Mechanik
-* nur 5 Attribute: Stärke, Geschick, Wissen, Charisma und Ausdauer
-* einen anderen Wertebereich für Attribute
-* keine Unterattribute (Skills)
-* keine Rettungswürfe
-* keine Lebenspunkte
-* keine Schadenspunkte
-* andere Kampfmechaniken
+Im Zweifel gilt die Entscheidung der Spielleiter:in. Sie ist für die Entwicklung der Geschichte verantwortlich und darf sich vorbehalten, die Regeln zu diesem Zweck zu interpretieren, zu verändern und zu brechen.
 
 ### Plausibilität und Wahrscheinlichkeit
 
-Die meisten Mechaniken von D&D dienen dem Zweck, die Plausibilität und Erfolgswahrscheinlichkeiten der von den Spieler:innen beschriebenen Aktionen zu bewerten. Oft besteht innerhalb der Gruppe aber sofort ein Gefühl dafür, wie wahrscheinlich etwas ungefähr sein wird, welches nicht erst noch aufwendig vermessen und nachberechnet werden muss. In diesen Fällen und als allgemeine Fallback-Regel gilt: Die Spielleiter:in ordnet die beschriebene Aktion unter Berücksichtigung der Besonderheiten der Charaktere in eine der folgenden Kategorien ein.
+Die Spielleiter:in ordnet die von den Spieler:innen beschriebene Aktionen, unter Berücksichtigung der Besonderheiten ihrer Charaktere, in eine der folgenden Kategorien ein.
 
 <table>
 <thead>
@@ -49,15 +31,11 @@ Die meisten Mechaniken von D&D dienen dem Zweck, die Plausibilität und Erfolgsw
 </tbody>
 </table>
 
-Die Spielleiter:in entscheidet im Einzelfall, ob die Gruppe die Erfolgswahrscheinlichkeit vor dem Würfelwurf erfährt. Durch die verbale Äußerung der bereits bestimmten Wahrscheinlichkeit wird das Würfelergebnis für alle Spieler:innen sofort interpretierbar, was das Mitfiebern fördert, kann jedoch nicht mehr zugunsten der Geschichte umgedeutet werden, was die Spielleiter:in einschränkt.
+Die Spielleiter:in entscheidet im Einzelfall, ob die Gruppe die Erfolgswahrscheinlichkeit vor dem Würfelwurf erfährt.
 
 **Beispiel**
 
 Tyrion schleicht sich bis auf 20m an eine Gruppe von 3 Goblins heran, nimmt seinen Kurzbogen zur Hand und legt an. Er ist geübt im Umgang mit Kurzbögen und vertraut mit dieser speziellen Waffe. Die Goblins bewegen sich nicht. Dass Tyrion sein Ziel trifft ist *äußerst wahrscheinlich*, wenn nicht sogar *gewiss*. Nachdem der erste Goblin zu Boden geht, läuft einer der beiden übrigen davon. Der andere hechtet hinter einen nahegelegenen Felsen, welcher ihn vollständig verdeckt. Den Goblin in Deckung zu treffen ist *unmöglich*, aber wenn Tyrion sich beeilt, wird er den fliehenden Goblin *wahrscheinlich* treffen, auch wenn es sich bei diesem nun um ein, sich bewegendes Ziel handelt.
-
-### Die Spielleiter:in hat immer Recht
-
-Wie auch bei D&D gilt im Zweifel die Entscheidung der Spielleiter:in. Diese:r ist für die Entwicklung der Geschichte verantwortlich und darf sich vorbehalten, die Regeln zu diesem Zweck zu interpretieren, zu verändern und zu brechen.
 
 ### Abrunden
 
@@ -65,7 +43,7 @@ In diesem Spielsystem werden manchmal Werte berechnet. Sollte das Endergebnis ke
 
 ## Charakter erstellen
 
-Dieses Kapitel beschreibt, wie du einen Charakter für dieses Spielsystem erstellen kannst. Du kannst dabei Abschnitt für Abschnitt vorgehen. Am besten legst du dir vorher Notizblätter für die folgenden Dinge bereit:
+Dieses Kapitel beschreibt, wie du einen Charakter erstellen kannst. Du kannst dabei Abschnitt für Abschnitt vorgehen. Am besten legst du dir vorher folgende Notizblätter bereit:
 
 * Charakterbeschreibung und Attribute
 * Talente und Schwächen
@@ -75,108 +53,44 @@ Dieses Kapitel beschreibt, wie du einen Charakter für dieses Spielsystem erstel
 
 ### Inspiration
 
-Als erstes solltest du dir Gedanken darüber machen, was den Kern deines Charakters ausmacht? Ist er groß oder klein? Besonders stark, beweglich oder intelligent? Wortkarg und hinterhältig oder geduldig und rechtschaffend? Löst er Konflikte mit Worten, mächtigen Zaubern oder roher Gewalt? Vielleicht dient ein Charakter aus einem anderen Fantasy-Universum als Vorlage. Dein Charakter könnte wie ein Yedi aus *Star Wars* sein, der statt einem Lichtschwert ein brennendes Schwert führt und statt auf die Macht auf Luftmagie setzt, wie Aang aus *Avatar: The Last Airbender*.
+Mach dir zunächst Gedanken darüber, was den Kern deines Charakters ausmacht! Ist er groß oder klein? Besonders stark, beweglich oder intelligent? Wortkarg und hinterhältig oder geduldig und rechtschaffend? Löst er Konflikte mit Worten, Magie oder roher Gewalt? Vielleicht dient ein Charakter aus einem bekannten Fantasy-Universum als Vorlage.
 
-Sprich mit deiner Spielleiter:in über deine Ideen und Wünsche und findet gemeinsam einen Weg, den Charakter plausibel in die Spielwelt zu integrieren.
+Sprich mit deiner Spielleiter:in über deine Ideen und Wünsche und findet gemeinsam einen Weg, den Charakter plausibel in eure Spielwelt zu integrieren!
+
+### Persönliche Geschichte
+
+Nimm dir nun Zeit um die persönliche Geschichte deines Charakters niederzuschreiben. Wie lautet sein Name? Zu welcher Art gehört er? Wie alt ist er? Wie ist dieser aufgewachsen? Welche Bildung und Aubildung wurde ihm zuteil? Wieso hat er seine Heimat verlassen und was hat ihn veranlasst, Abenteurer:in zu werden? Ist er gut oder böse, gesetzestreu oder gesetzlos?
+
+### Äußere Erscheinung
+
+Runde deine Charakterbeschreibung ab und beschreibe das äußere deines Charakters! Wie groß ist er? Und welche Haar- und Augenfarbe hat er? Welche Besonderheiten zeichen ihn aus?
 
 ### Attribute
 
 Dein Charakter hat 5 Attribute.
 
-* **Stärke (STK)** gibt die physische Kraft deines Charakters an und bestimmt über seine Erfolgschancen bei körperlich anstrengenden Aufgaben, wie z.B. dem Aufbrechen einer Tür oder einem Faustkampf.
-* **Geschick (GES)** steht für die Beweglichkeit, Geschicklichkeit, Schnelligkeit und Reflexe deines Charakters und kommt ihm z.B. bei Schleichen oder Bogenschießen zugute.
-* **Wissen (WIS)** trifft eine Aussage über die Geisteskräfte deines Charakters und ist entscheidend für das Wirken von Zaubern und das Lösen von Rätseln.
-* **Charisma (CHA)** bestimmt die Ausstrahlung und die rhetorischen Fähigkeiten deines Charakters und bedingt, wie viel Einfluss dieser auf andere Wesen hat.
-* **Ausdauer (AUS)** drückt das Durchhaltevermögen deines Charakters aus. Je mehr Ausdauer dieser besitzt, desto mehr anstrengede Aktionen kann er ausführen, bevor er eine Rast einlegen muss.
+**Stärke (STK)** gibt die physische Kraft deines Charakters an und bestimmt über seine Erfolgschancen bei körperlich anstrengenden Aufgaben, wie z.B. dem Aufbrechen einer Tür oder einem Faustkampf.
 
-Schreibe die Basiswerte nebeneinander auf deinen Schmierzettel!
+**Geschick (GES)** steht für die Beweglichkeit, Geschicklichkeit, Schnelligkeit und Reflexe deines Charakters und kommt ihm z.B. bei Schleichen oder Bogenschießen zugute.
 
-<table>
-<thead>
-<tr><th></th><th>STK</th><th>GES</th><th>WIS</th><th>CHA</th><th>AUS</th><th><em>Summe</em></th></tr>
-</thead>
-<tbody>
-<tr><td>Basiswert</td><td>20</td><td>20</td><td>20</td><td>20</td><td>10</td><td><em>90</em></td></tr>
-</tbody>
-</table>
+**Wissen (WIS)** trifft eine Aussage über die Geisteskräfte deines Charakters und ist entscheidend für das Wirken von Zaubern und das Lösen von Rätseln.
 
-### Art
+**Charisma (CHA)** bestimmt die Ausstrahlung und die rhetorischen Fähigkeiten deines Charakters und bedingt, wie viel Einfluss dieser auf andere Wesen hat.
 
-Wähle von welcher eine Art dein Charakter sein soll und schreibe die entsprechenden Wertanpassungen unter die Basiswerte auf deinen Schmierzettel!
+**Ausdauer (AUS)** drückt das Durchhaltevermögen deines Charakters aus. Je mehr Ausdauer dieser besitzt, desto mehr anstrengede Aktionen kann er ausführen, bevor er eine Rast einlegen muss.
 
-<table>
-<thead>
-<tr><th></th><th>STK</th><th>GES</th><th>WIS</th><th>CHA</th><th>AUS</th><th><em>Summe</em></th></tr>
-</thead>
-<tbody>
-<tr><td>Elfen</td><td>-2</td><td></td><td>5</td><td></td><td></td><td><em>+3</em></td></tr>
-<tr><td>Menschen</td><td>1</td><td>1</td><td></td><td>1</td><td></td><td><em>+3</em></td></tr>
-<tr><td>Orks</td><td>5</td><td>1</td><td>-1</td><td>-2</td><td></td><td><em>+3</em></td></tr>
-<tr><td>Zwerge</td><td></td><td>2</td><td>2</td><td>-1</td><td></td><td><em>+3</em></td></tr>
-</tbody>
-</table>
+Ein durchschnittlich begabter Charakter hat einen Attributwert von 20. Der Maximalwert für die Attribute von Charakteren ist 80.
 
-Du möchtest einen Halb-Ork oder eine völlig anderen Art von Wesen spielen? Sprich mit deiner Spielleiter:in und überlegt euch gemeinsam, wie die Attribute entsprechend angepasst werden können. Vielleicht könnt ihr niedrigere Attribute auch durch Talente oder Fertigkeiten ausgleichen.
+Um die Startattribute deines Charakters zu bestimmen führe den folgenden Schritt insgesamt 5 Mal durch und notiere die Ergebnisse auf einem Schmierzettel:
 
-### Alter
+0. Würfel 4W6!
+0. Ignoriere den Würfel mit dem niedrigsten Ergebnis!
+0. Zähle die übringen 3 Ergebnisse zusammen!
+0. Zähle 12 dazu!
 
-Dieses Spielsystem geht davon aus, dass alle Abenteurer:innen erwachsene Charaktere sind. Die Basiswerte sind entsprechend ausgelegt. Du möchtest einen jugendlichen Tunichtgut oder eine weise alte Frau spielen? Dann kannst du die Attribute deines Charakters wie folgt anpassen.
+Weise nun jedem Attribut eines der Ergenisse zu!
 
-<table>
-<thead>
-<tr><th></th><th>STK</th><th>GES</th><th>WIS</th><th>CHA</th><th>AUS</th><th><em>Summe</em></th></tr>
-</thead>
-<tbody>
-<tr><td>Alte</td><td>-10</td><td>-10</td><td>+10</td><td>-5</td><td>-5</td><td><em>-20</em></td></tr>
-<tr><td>Jugendliche</td><td>-5</td><td>-5</td><td>-5</td><td>-5</td><td></td><td><em>-20</em></td></tr>
-<tr><td>Kinder</td><td>-15</td><td>-15</td><td>-15</td><td>-15</td><td>-5</td><td><em>-65</em></td></tr>
-</tbody>
-</table>
-
-### Klasse
-
-In diesem Spielsystem gibt es keine Klassen. Trotzdem lässt sich dein Charakter sicher einem der folgenden Archetypen zuordnen. Wenn nicht, dann kreire zusammen mit deiner Spielleiter:in einen eigenen Archetypen.
-
-<table>
-<thead>
-<tr><th></th><th>STK</th><th>GES</th><th>WIS</th><th>CHA</th><th>AUS</th><th><em>Summe</em></th></tr>
-</thead>
-<tbody>
-<tr><td>Bard:in</td><td>-2</td><td>+1</td><td>+3</td><td>+5</td><td></td><td><em>+7</em></td></tr>
-<tr><td>Kämpfer:in</td><td>+6</td><td>+4</td><td>-2</td><td>-1</td><td></td><td><em>+7</em></td></tr>
-<tr><td>Waldläufer:in</td><td>+2</td><td>+5</td><td>+2</td><td>-2</td><td></td><td><em>+7</em></td></tr>
-<tr><td>Zauber:in</td><td>-2</td><td></td><td>+9</td><td></td><td></td><td><em>+7</em></td></tr>
-</tbody>
-</table>
-
-TODO
-* Dieb:in
-* Druid:in
-* Hexenmeister:in
-* Kleriker:in
-* Mönch:in
-* Paladin:in
-* Priester:in
-* Schaman:in
-
-### Persönliche Geschichte
-
-Sofern es sich bei deinem Charakter um eine erwachsene Person handelt, müsste dieser nun in Summe 100 Punkte auf seine Attribute verteilt haben. Nimmer dir nun Zeit um die persönliche Geschichte deines Charakters niederzuschreiben. Wie ist dieser aufgewachsen? Welche Bildung und Aubildung wurde ihm zuteil? Wieso hat er seine Heimat verlassen und was hat ihn veranlasst Abenteurer:in zu werden? Wenn du dir über diese Dinge klar geworden bist und sie mit deiner Spielleiter:in besprochen hast, darfst du bis zu drei Attributpunkte frei umverteilen, um deinem Charakter seine ganz persönliche Note zu verleihen. Notiere die Attribute anschließend in deiner Charakterbeschreibung!
-
-#### Ausrichtung
-
-Nachdem du deinen Charakter nun schon sehr genau beschrieben hast, fällt es dir sicher leicht, seine Ausrichtung zu bestimmen. Wähle dazu je einen Wert der folgenden beiden Dimensionen!
-
-* Gesetzestreu / Neutral / Chaotisch
-* Gut / Neutral / Böse
-
-Notiere deine Ausrichtung in deiner Charakterbeschreibung!
-
-#### Äußere Erscheinung
-
-Runde deine Charakterbeschreibung ab und beschreibe das äußere deines Charakters! Wie lautet sein Name? Wie groß ist er? Wie alt? Und welche Haar- und Augenfarbe hat er? Welche Besonderheiten zeichen ihn aus?
-
-### Duellwertung
+#### Duellwertung
 
 Aus den Attributen deines Charakters ergibt sich seine Duellwertung für physische und magische Duelle:
 
@@ -184,41 +98,41 @@ Aus den Attributen deines Charakters ergibt sich seine Duellwertung für physisc
 
 **Magische Duellwertung** = (WIS + CHA) / 10
 
-Notiere deine Duellwertung in deiner Charakterbeschreibung!
-
 ### Talente und Schwächen
 
-**Talente** spiegeln die Erfahrungen und besonderen Fähigkeiten deines Charakters wieder. Dazu gehören z.B. handwerkliche Kenntnisse, der Umgang mit bestimmten Gegenständen und Waffen oder das Wissen um Flora, Fauna und Geschichte eines bestimmten Gebiets. Herausragende Talente deines Charakters werden mit dem Hinweis *Meisterschaft* notiert.
+Talente spiegeln die Erfahrungen und besonderen Fähigkeiten deines Charakters wieder. Dazu gehören z.B. handwerkliche Kenntnisse, der Umgang mit bestimmten Gegenständen und Waffen oder das Wissen um Flora, Fauna und Geschichte eines bestimmten Gebiets. Herausragende Talente deines Charakters werden mit dem Hinweis *Meisterschaft* notiert.
 
-Zu den **Schwächen** deines Charakters zählen Ängste, schlechte Angewohnheiten, Süchte und sonstige negative Charakterzüge. Ist eine Schwäche besonders stark ausgeprägt, wird sie mit dem Hinweis *krankhaft* notiert.
+Zu den Schwächen deines Charakters zählen Ängste, schlechte Angewohnheiten, Süchte und sonstige negative Charakterzüge. Ist eine Schwäche besonders stark ausgeprägt, wird sie mit dem Hinweis *krankhaft* notiert.
 
-Die Talente und Schwächen deines Charakters helfen dir und deiner Spielleiter:in dabei, einzuschätzen, ob die von dir beschriebenen Handlungen plausibel sind und Aussicht auf Erfolg haben.
+### Fertigkeiten und Zauber
 
-### Fertigkeiten
+Fertigkeiten sind Dinge, die dein Charakter tun kann. Dazu gehören die allgemeinen Aktionen, die Charakteren z.B. während eines Kampfes zur Verfügung stehen, aber auch besondere Dinge, die dein Charakter aufgrund seiner Talente oder Ausrüstung beherrscht. Fertigkeiten haben meist eine Mindestanforderung an Stärke oder Geschick.
 
-TODO
+Zauber sind magische Fertigkeiten. Sie erfordern meist ein bestimmtes Maß an Wissen oder Charisma sowie ein Talent im Umgang mit der jeweiligen Art von Magie, zu der sie gehören.
 
-### Zauber
-
-TODO
+Um Fertigkeiten auszuführen und Zauber zu wirken wird Ausdauer benötigt.
 
 ### Ausrüstung
 
-TODO
+Welche Gegenstände dein Charakter bei sich hat, richtet sich nach der Welt, die du mit deinen Mitspieler:innen und deiner Spielleiter:in erschaffst.
 
 #### Vertrautheit
 
-TODO
+Benutzt dein Charakter einen bestimmten Gegenstand regelmäßig? Dann vermerke das dem Hinweis *vertraut*.
+
+**Beispiel**
+
+Tyrion hat schon hunderte Pfeile mit seinem Kurzbogen abgeschossen. Mit diesem Kurzbogen wird Tyrion sein Ziel wahrscheinlich öfter treffen, als mit einem beliebigen anderen Kurzbogen.
 
 #### Gruppen-Inventar
 
-TODO
+Manche Gegenstände sind besonders wichtig für die Entwicklung der Geschichte. Damit diese Gegenstände nicht in den tiefen einer Charakterbeschreibung verloren gehen, lohnt es sich, sie gesondert zu notieren.
 
 ## Charakter spielen
 
 ### Erkunden
 
-Das Erkunden und Entdecken verlaufen wie bei D&D: Die Spielleiter:in beschreibt die Umgebung, die Spieler:innen ihrer Gedanken und Handlungen. Doch statt Proben auf konkrete Attribute abzulegen bewertet die Spielleiter:in Situation und Charaktere als ganzes und legt dann eine Wahrscheinlichkeitskategorie fest.
+Beim Erkunden und Entdecken eurer Spielwelt beschreibt die Spielleiter:in die zunächste die Umgebung. Die Spieler:innen stellen Fragen und beschreiben die Gedanken und Handlungen ihrer Charaktere. Ist der Ausgang einer Handlung ungewiss, bewertet die Spielleiter:in Situation und Charaktere und legt dann eine Wahrscheinlichkeitskategorie fest.
 
 **Beipiel**
 
@@ -226,27 +140,25 @@ Tyrion entdeckt eine schwere, eisenbeschlagene Holztruhe. Das Schloss ist alt un
 
 ### Soziale Interaktionen
 
-Auch soziale Interaktionen laufen ab wie bei D&D. Bei Ereignissen, deren Ausgang ungewiss ist, bewertet die Spielleiter:in die Gesamtsituation (Kontext, Gesprächsverlauf und Charakterattribute, etc.) und legt eine Wahrscheinlichkeitskategorie fest.
+Soziale Interaktionen verlaufen wie das Erkunden, wobei die Spielleiter:in alle Charaktere spielt, die nicht von Spieler:innen gespielt werden. Bei Ereignissen, deren Ausgang ungewiss ist, bewertet die Spielleiter:in die Gesamtsituation (Kontext, Gesprächsverlauf und Charakterattribute, etc.) und legt eine Wahrscheinlichkeitskategorie fest.
 
 **Beipiel**
 
-Tyrion versucht die Wirtin des Gasthauses *Zum Wilden Eber* davon zu überzeugen, ihm einen Rabatt auf die Wochenmiete zu gewähren. Die Wirtin ist eine geizige Frau, das Wort Rabatt gehört eigentlich nicht zu ihrem Wortschatz. Doch Tyrion ist überzeugender Redner und hat der Wirting bereits zwei Mal aus der Patsche geholfen. Von ihr einen Rabatt zu erwirken wäre als *möglich*, mit ein bisschen Glück.
+Tyrion versucht die Wirtin des Gasthauses *Zum Wilden Eber* davon zu überzeugen, ihm einen Rabatt auf die Wochenmiete zu gewähren. Die Wirtin ist eine geizige Frau, das Wort Rabatt gehört eigentlich nicht zu ihrem Wortschatz. Doch Tyrion ist überzeugender Redner und hat der Wirting bereits zwei Mal aus der Patsche geholfen. Von ihr einen Rabatt zu erwirken wäre also *möglich*, mit ein bisschen Glück.
 
 ### Kämpfen
 
-Der Ablauf und die Aktionen eines Kampfes sind grundsätzlich die gleichen, wie bei D&D.
-
-#### Initiative
+#### Reihenfolge
 
 Zu Beginn des Kampfes würfeln alle Beteiligten einen D20. Die Reihenfolge in der sie im Kampf Aktionen ausführen können, richtet sich nach der Reihenfolge ihres Würfelergebnisses.
 
-##### Bewegen
+#### Bewegen
 
-Jeder Charakter kann sich während seines Zuges um bis zu 3 Meter bewegen. Die Bewegung kann vor, während und nach seiner Aktion ausgeführt werden. Die Besonderheiten eines Charakters, die Umstände des Kampfes und das umliegende Terrain können die Bewegung beeinflussen.
+Jeder Charakter kann sich während seines Zuges um bis zu 10 Meter bewegen. Die Bewegung kann vor, während und nach seiner Aktion ausgeführt werden. Die Besonderheiten eines Charakters, seine Ausrüstung, die Umstände des Kampfes und das umliegende Terrain können die Bewegung beeinflussen.
 
 #### Aktionen und Reaktion
 
-Ein Charakter kann in seinem Zug eine der folgenden Aktionen durführen:
+Ein Charakter kann in seinem Zug eine der folgenden Aktionen durchführen:
 
 * Angreifen
 * Aufrappeln
@@ -257,18 +169,18 @@ Ein Charakter kann in seinem Zug eine der folgenden Aktionen durführen:
 * Einen Zauber wirken
 * Improvisieren
 
-Eine Aktion durchzuführen kostet grundsätzlich einen Ausdauerpunkt, es sei denn, die Aktionsbeschreibung sagt etwas anderes. Wenn ein Charakter keine Ausdauerpunkte mehr hat und trotzdem eine Aktion ausführt, die Ausdauerpunkte kostet, erhält er stattdessen Erschöpfungspunkte in Höhe der Ausdauerkosten.
+Eine Aktion auszuführen kostet grundsätzlich einen Ausdauerpunkt, es sei denn, die Aktionsbeschreibung sagt etwas anderes. Wenn ein Charakter keine Ausdauerpunkte mehr hat und trotzdem eine Aktion ausführt, die Ausdauerpunkte kostet, erhält er stattdessen einen Erschöpfungspunkt.
 
-Eine Aktion kann ggf. als Reaktion ausgeführt werden. Dazu bietet die Spielleiter:in einem Charakter an, seine Aktion vorzuziehen und stattdessen eine Reaktion auf ein Ereignis durchzuführen.
+Eine Aktion kann ggf. als Reaktion ausgeführt werden. Dazu bietet die Spielleiter:in einem Charakter an, seine Aktion vorzuziehen um stattdessen eine Reaktion auf ein Ereignis auszuführen.
 
 ##### Angreifen (Nahkampf)
 
 TODO
+* Bei mehreren Angreifern müssen alle Angriffe verteidigt und alle Angriffe gewonnen werden um die Oberhand zu bekommen.
 * Nahkampf: (Stärke + Geschick)/10 gerundet + 1W6
 * Angreifer gegen Verteidiger
     * Angreifer gewinnt: Oberhand
     * Verteidiger gewinnt: Verteidiger wird zum Angreifer
-* Bei mehreren Angreifern müssen alle Angriffe verteidigt und alle Angriffe gewonnen werden um die Oberhand zu bekommen.
 
 ###### Duell
 
@@ -303,45 +215,52 @@ TODO
 
 ##### Aufrappeln
 
-Dein Charakter steht vom Boden auf, wenn er zuvor auf dem Boden lag.
+Ein Charakter steht vom Boden auf, wenn er zuvor auf dem Boden lag.
 
 ##### Ausweichen
 
-Dein Charakter versucht einem Angriff auszuweichen. Kann nur als Reaktion genutzt werden.
+Ein Charakter versucht einem Angriff auszuweichen. Kann nur als Reaktion genutzt werden.
 
 ##### Durchatmen
 
-Dein Charakter erhält zwei Ausdauerpunkte, es sei denn er ist erschöpft.
+Ein Charakter erhält zwei Ausdauerpunkte, es sei denn er ist erschöpft.
 
 ##### Sprinten
 
-Dein Charakter führt eine zusätzliche Bewegung aus.
+Ein Charakter führt eine zusätzliche Bewegung aus.
 
 ##### Einen Gegenstand benutzen
 
-Dein Charakter benutzt einen Gegenstand oder hebt einen Gegenstand vom Boden auf.
+Ein Charakter benutzt einen Gegenstand oder hebt einen Gegenstand vom Boden auf.
 
 ##### Einen Zauber wirken
 
-Dein Charakter wirkt einen Zauber oder konzentriert sich darauf, einen gewirkten Zauber aufrecht zu erhalten.
+Ein Charakter wirkt einen Zauber oder erhält einen bereits gewirkten Zauber aufrecht.
 
 ##### Improvisieren
 
-Dein Charakter tut etwas, das nicht zu einer der beschriebenen Aktionen gezählt werden kann. Beschreibe genau, wie du dir den Ablauf deiner improvisierten Aktion vorstellst.
-
-Zum Improvisieren gehören auch die folgenden, im offiziellen *Player's Handbook®* besschrieben Aktionen:
-
-* Verstecken
-* Dem Kampf entgehen (Disengage)
-* Nach etwas suchen
-* Eine Reaktion vorbereiten
-* Einem anderen Charakter helfen
+Ein Charakter tut etwas, das nicht zu einer der beschriebenen Aktionen gezählt werden kann. Die Spieler:ing beschreibt genau, wie sie sich den Ablauf der improvisierten Aktion vorstellt. Die Spielleiter:in entscheidet über den Ausgang.
 
 **Beispiel**
 
 Tyrion wird an seinem Lagerplatz von Wölfen überfallen. Er nutzt seine Aktion um den Wolf, der ihm am nächsten steht, mit seinem Wanderstab in Richtung seines Lagerfeuers zu stoßen. Tyrion ist sehr geschickt, der Wolf sehr agil. Die Spielleiter:in entscheidet, dass die Aktion zumindest *möglich* ist.
 
 ### Zustände
+
+TODO
+
+#### Erschöpfung
+
+TODO
+* Wer Ausdauer ausgibt, die er nicht hat, wird erschöpft
+* Stufe 1: Beim Rasten wird nur die halbe Ausdauer (abgerundet) wiederhergestellt und die Erschöpfung aufgehoben
+* Stufe 2: Beim Rasten wird keine Ausdauer wiederhergestellt, stattdessen wird die Erschöpfung um eine Stufe reduziert
+* Stufe 3: wie 2, außerdem verliert der Charakter 1 Stärke
+* Stufe 4: wie 2, außerdem verliert der Charakter 1 Stärke, 1 Geschick, 1 Wissen, 1 Charisma und 1 Ausdauer
+* Stufe 5: wie 2, außerdem wird der Charakter ohnmächtig
+* Stufe 6: Tod
+
+#### Liegend
 
 TODO
 
@@ -378,91 +297,3 @@ TODO
 * Vetraute Gegenstände
 * Meisterschaft
 * Titel
-
-## Anhang
-
-### Liste der Talente
-
-TODO
-* Leichte Rüstung (z.B. Leder)
-* Mittelschwere Rüstung (z.B. Ketten)
-* Schwere Rüstung (z.B. Eisenplatten)
-* Dolch
-* Kurzschwert
-* Langschwert
-* Axt
-* Kriegsaxt
-* Hammerh (inkl. Keulen)
-* Streithammer
-* Stangenwaffe
-* Speer
-* Wurfmesser
-* Wurfaxt
-* Schleuder
-* Kurzbogen
-* Langbogen
-* Armbrust
-* Schild
-* Gute Reflexe (Kämpfer)
-* Guter Orientierungssinn (Waldläufer)
-* Gutes Gedächtnis (Zauberer)
-* Gute Menschenkenntnis (Unterhalter)
-
-### Liste der Schwächen
-
-TODO
-* Gier
-
-### Liste der Fertigkeiten
-
-TODO
-
-### Liste der Zauber
-
-TODO
-* Arkan
-* Feuer
-* Wasser
-* Luft
-* Erde
-* Heilig
-* Unheilig
-
-### Liste der Zustände
-
-TODO
-
-#### Erschöpfung
-
-TODO
-* Wer Ausdauer ausgibt, die er nicht hat, wird erschöpft
-* Stufe 1: Beim Rasten wird nur die halbe Ausdauer (abgerundet) wiederhergestellt und die Erschöpfung aufgehoben
-* Stufe 2: Beim Rasten wird keine Ausdauer wiederhergestellt, stattdessen wird die Erschöpfung um eine Stufe reduziert
-* Stufe 3: wie 2, außerdem verliert der Charakter 1 Stärke
-* Stufe 4: wie 2, außerdem verliert der Charakter 1 Stärke, 1 Geschick, 1 Wissen, 1 Charisma und 1 Ausdauer
-* Stufe 5: wie 2, außerdem wird der Charakter ohnmächtig
-* Stufe 6: Tod
-
-#### Stumm
-
-TODO
-
-### Beispiel-Charakter
-
-TODO
-* Druidin aus D&D
-* Barbar aus Diablo 3
-* Hexenmeister aus WoW
-* Minion Master aus Guild Wars
-* Sneaky Bogen Rogue aus Skyrim
-* Wukong aus League of Legends
-* Yedi-Ritter
-* Avatar Aang
-
-### Copyright-Hinweis
-
-Wizards of the Coast, Dungeons & Dragons®, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries. © 2015 Wizards. All Rights Reserved.
-
-This website is not affiliated with, endorsed, sponsored, or specifically approved by Wizards of the Coast LLC. This website may use the trademarks and other intellectual property of Wizards of the Coast LLC, which is permitted under Wizards' [Fan Site Policy](https://dnd.wizards.com/resources/fan-site-kit).
-
-For example, Dungeons & Dragons® is a trademark of Wizards of the Coast. For more information about Wizards of the Coast or any of Wizards' trademarks or other intellectual property, please visit their website at [www.wizards.com](https://www.wizards.com).
