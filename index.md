@@ -4,7 +4,47 @@ Dieses Spielsystem bietet Regeln zum Erstellen, Spielen und Entwickeln von Chara
 
 ## Inhalt
 
-TODO
+* [Grundregeln](#grundregeln)
+    * [Die Spielleiter:in hat immer Recht](#die-spielleiter-in-hat-immer-recht)
+    * [Plausibilität und Wahrscheinlichkeit](#plausibilität-und-wahrscheinlichkeit)
+    * [Abrunden](#abrunden)
+* [Charakter erstellen](#charakter-erstellen)
+    * [Inspiration](#inspiration)
+    * [Persönliche Geschichte](#persönliche-geschichte)
+    * [Äußere Erscheinung](#äußere-erscheinung)
+    * [Attribute](#attribute)
+        * [Duellwertung](#duellwertung)
+    * [Talente und Schwächen](#talente-und-schwächen)
+    * [Fertigkeiten und Zauber](#fertigkeiten-und-zauber)
+    * [Ausrüstung](#ausrüstung)
+        * [Vertrautheit](#vertrautheit)
+        * [Gruppen-Inventar](#gruppen-inventar)
+* [Charakter spielen](#charakter-spielen)
+    * [Erkunden](#erkunden)
+    * [Soziale Interaktionen](#soziale-interaktionen)
+    * [Kämpfen](#kämpfen)
+        * [Reihenfolge](#reihenfolge)
+        * [Bewegen](#bewegen)
+        * [Aktionen und Reaktion](#aktionen-und-reaktion)
+            * [Angreifen (Nahkampf)](#angreifen--nahkampf-)
+                * [Duell](#duell)
+            * [Angreifen (Fernkampf)](#angreifen--fernkampf-)
+            * [Angreifen (Zauber)](#angreifen--zauber-)
+                * [Magisches Duell](#magisches-duell)
+            * [Aufrappeln](#aufrappeln)
+            * [Ausweichen](#ausweichen)
+            * [Durchatmen](#durchatmen)
+            * [Sprinten](#sprinten)
+            * [Einen Gegenstand benutzen](#einen-gegenstand-benutzen)
+            * [Einen Zauber wirken](#einen-zauber-wirken)
+            * [Improvisieren](#improvisieren)
+    * [Zustände](#zustände)
+        * [Erschöpft](#erschöpft)
+        * [Liegend](#liegend)
+    * [Rasten](#rasten)
+        * [Kurze Rast](#kurze-rast)
+        * [Lange Rast](#lange-rast)
+* [Charakter entwickeln](#charakter-entwickeln)
 
 ## Grundregeln
 
@@ -43,7 +83,7 @@ In diesem Spielsystem werden manchmal Werte berechnet. Sollte das Endergebnis ke
 
 ## Charakter erstellen
 
-Dieses Kapitel beschreibt, wie du einen Charakter erstellen kannst. Du kannst dabei Abschnitt für Abschnitt vorgehen. Am besten legst du dir vorher folgende Notizblätter bereit:
+Dieses Kapitel beschreibt, wie du einen Charakter erstellen kannst. Du kannst dabei Abschnitt für Abschnitt vorgehen. Am besten legst du dir vorher folgende Notizblätter zurecht!
 
 * Charakterbeschreibung und Attribute
 * Talente und Schwächen
@@ -81,7 +121,7 @@ Dein Charakter hat 5 Attribute.
 
 Ein durchschnittlich begabter Charakter hat einen Attributwert von 20. Der Maximalwert für die Attribute von Charakteren ist 80.
 
-Um die Startattribute deines Charakters zu bestimmen führe den folgenden Schritt insgesamt 5 Mal durch und notiere die Ergebnisse auf einem Schmierzettel:
+Um die Startattribute deines Charakters zu bestimmen führe den folgenden Schritt insgesamt 5 Mal durch und notiere die Ergebnisse auf einem Schmierzettel!
 
 0. Würfel 4W6!
 0. Ignoriere den Würfel mit dem niedrigsten Ergebnis!
@@ -158,7 +198,7 @@ Jeder Charakter kann sich während seines Zuges um bis zu 10 Meter bewegen. Die 
 
 #### Aktionen und Reaktion
 
-Ein Charakter kann in seinem Zug eine der folgenden Aktionen durchführen:
+Ein Charakter kann in seinem Zug eine der folgenden Aktionen durchführen.
 
 * Angreifen
 * Aufrappeln
@@ -175,43 +215,31 @@ Eine Aktion kann ggf. als Reaktion ausgeführt werden. Dazu bietet die Spielleit
 
 ##### Angreifen (Nahkampf)
 
-TODO
-* Bei mehreren Angreifern müssen alle Angriffe verteidigt und alle Angriffe gewonnen werden um die Oberhand zu bekommen.
-* Nahkampf: (Stärke + Geschick)/10 gerundet + 1W6
-* Angreifer gegen Verteidiger
-    * Angreifer gewinnt: Oberhand
-    * Verteidiger gewinnt: Verteidiger wird zum Angreifer
+Ein Charakter führt einen Nahkampfangriff auf ein Ziel aus, das sich in Reichweite befindet. Wenn das Ziel in der Lage ist, Nahkampfangriffe auszuführen fechten beide ein Duell aus. Kann das Ziel keinen Nahkampfangriff ausführen oder wird das Duell gewonnen, beschreibt die entsprechende Spieler:in, wie sie die Situation ausnutzen möchte. Wird das Duell verloren, beschreibt die Spielleiter:in, wie das angegriffene Ziel die Situation ausnutzen möchte.
 
 ###### Duell
 
-TODO
+Bei einem Duell versuchen zwei Wesen, das jeweils andere zu überwältigen. Das angreifende Wesen hat zunächst die Oberhand. Beide würfeln 1d6 und addieren ihre Duellwertung. Wenn das angreifende Wesen ein höheres Ergebnis hat, wird das verteidigende Wesen überwältigt und das Duell ist gewonnen. Ist das Ergebnis des verteidigenden Wesens höher, erlangt es die Oberhand und greift nun seinerseits an. Ist das Ergebnis gleich, gilt dieser Versuch als unentschieden, das angreifende Wese behält die Oberhand und greift erneut an. Ist nach 5 Versuchen keines der beiden Wesen siegreich, gilt das Duell als unentschieden.
 
 ##### Angreifen (Fernkampf)
 
-TODO
-* Regel
-    * Grundsätzlich: Fachkunde + Unbewegtes Ziel + Freier Schuss: Äußerst wahrscheinlich
-    * Laie: -1 / Meister: +1
-    * Bewegliches Ziel: -1
-    * Ablenkung: -2
-* Beispiel: 1H-Bogen
-    * Ich bin fachkundig, Ziel steht still, ich bin ungehindert-> äußerst wahrscheinlich
-    * Ich bin nicht fachkundig -> unwahrscheinlich
-    * Ziel bewegt sich -> wahrscheinlich
-    * Ich bin gehindert -> unwahrscheinlich
-    * Ich bin meisterhaft, Ziel bewegt sich -> äußerst wahrscheinlich
-* X Schuss kosten 1 Ausdauer
+Ein Charakter führt einen Fernkampfangriff auf ein Ziel aus. Die Spielleitering entscheidet, wie wahrscheinlich es ist, dass der Charakter sein Ziel trifft. Dazu sollten folgende Punkte beachtet werden.
+
+* Hat der Charakter, ein Talent im Umgang mit der benutzten Waffe und erfüllt die Anforderungen um mit dieser Waffe einen Angriff auszuführen?
+* Hat der Charakter freie Sicht auf das Ziel?
+* Bewegt sich das Ziel?
+* Ist das Ziel in Deckung?
+* Kann der Charakter ungehindert schießen?
+
+Ein besonders gutes Würfelergebnis sollte so interpretiert werden, dass der Charakter sein Ziel besonders genau getroffen hat.
 
 ##### Angreifen (Zauber)
 
-TODO
-* 1 Zauber kostet 1 Ausdauer
-    * Cantrips kosten nichts
-    * Zauber die Aufrecht erhalten werden müssen kosten 1 Ausdauer pro Runde
+Ein Charakter führt einen Zauber wie beschrieben aus.
 
 ###### Magisches Duell
 
-TODO
+Ergibt sich aus der Spielsituation, dass zwei Zauberwirkende ihre Zauber gegeneinander treffen, kann die Spielleiter:in entscheiden, dass es zu einem Magischen Duell kommt. In diesem Fall wird das Duell analog dem Duell bei einem Nahkampfangriff ausgeführt, wobei die Magische Duellwertung herangezogen wird.
 
 ##### Aufrappeln
 
@@ -247,53 +275,50 @@ Tyrion wird an seinem Lagerplatz von Wölfen überfallen. Er nutzt seine Aktion 
 
 ### Zustände
 
-TODO
+Die Zustände, die einen Charakter betreffen können richten sich nach der Welt, die du mit deinen Mitspieler:innen und deiner Spielleiter:in erschaffst. Die Zustände *Erschöpft* und *Liegend* sind jedoch so notwendig, um alle bereits beschriebenen Aktionen zu ermöglichen.
 
-#### Erschöpfung
+#### Erschöpft
 
-TODO
-* Wer Ausdauer ausgibt, die er nicht hat, wird erschöpft
-* Stufe 1: Beim Rasten wird nur die halbe Ausdauer (abgerundet) wiederhergestellt und die Erschöpfung aufgehoben
-* Stufe 2: Beim Rasten wird keine Ausdauer wiederhergestellt, stattdessen wird die Erschöpfung um eine Stufe reduziert
-* Stufe 3: wie 2, außerdem verliert der Charakter 1 Stärke
-* Stufe 4: wie 2, außerdem verliert der Charakter 1 Stärke, 1 Geschick, 1 Wissen, 1 Charisma und 1 Ausdauer
-* Stufe 5: wie 2, außerdem wird der Charakter ohnmächtig
-* Stufe 6: Tod
+Ein Charakter hat sich über seine Leistungsfähigkeit angestrengt. Die Stufe der Erschöpfung entspricht der Anzahl der Erschöpfungspunkte, die der Charakter besitzt. Die folgende Tabelle beschreibt die Auswirkungen der Stufen der Erschöpfung.
+
+<table>
+<thead>
+<tr><th>Stufe</th><th>Auswirkung</th></tr>
+</thead>
+<tbody>
+<tr><td>1</td><td>Bei einer Rast wird zurückgewonnene Ausdauer halbiert und die Erschöpfung endet.</td></tr>
+<tr><td>2</td><td>Bei einer Rast wird keine Ausdauer zurückgewonnen und die Erschöpfung um 1 reduziert.</td></tr>
+<tr><td>3</td><td>Bei einer Rast wird keine Ausdauer zurückgewonnen. Bei einer langen Rast verliert der Charakter 1 STK und die Erschöpfung wird um 1 reduziert.</td></tr>
+<tr><td>4</td><td>Der Charakter wird ohnmächtig. Bei einer Rast wird keine Ausdauer zurückgewonnen. Bei einer langen Rast verliert der Charakter 1 STK, 1 GES, 1 WIS, 1 CHA und 1 AUS und die Erschöpfung wird um 1 reduziert.</td></tr>
+<tr><td>5</td><td>Der Charakter stirbt</td></tr>
+</tbody>
+</table>
 
 #### Liegend
 
-TODO
+Ein am Boden liegender Charakter kann keine Aktionen ausführen, zu deren Ausführung er stehen müsste. Stattdessen kann er die Aktion Aufrappeln ausführen.
 
 ### Rasten
 
-TODO
-* Erfordert: Ruhe, Wärme, ggf. Unterschlupf
+Beim Rasten stellen Charaktere ihre Ausdauer wieder her. Die Spielleiter:in entscheidet, welche Umstände für eine erholsame Rast erfültt werden müssen, dazu gehören z.B. Ruhe, Wärme, ein Unterschlupf und Proviant.
 
 #### Kurze Rast
 
-TODO
-* Charaktere regenerieren um die Hälfte ihrer maximalen Ausdauer (abgerundet)
-* Erschöpfung geht nicht zurück
-
-**Beipiel**
-
-TODO
+Bei einer kurzen Rast erhält ein Charakter die Hälfte seiner maximalen Ausdauer zurück, es sei denn, er ist erschöpft.
 
 #### Lange Rast
 
-TODO
-* Charaktere regenerieren ihre gesamte Ausdauer
-* Erschöpfung geht zurück
-* Erfordert: ggf. Proviant (wird verbraucht)
+Bei einer langen Rast erhält ein Charakter seine gesamte Ausdauer zurück, es sei denn, er ist erschöpft.
 
 ## Charakter entwickeln
 
-TODO
-* Attribute
-* Talente
-* Fertigkeiten
-* Zauber
-* Magische Gegenstände
-* Vetraute Gegenstände
-* Meisterschaft
-* Titel
+Um einen Charakter weiterzuentwickeln kann die Spielleiter:in erfolgreich absolvierte Spielsituationen belohnen. Als Belohnungen können unter anderem die folgenden Dinge dienen.
+
+* Attributpunkte
+* Ein neues Talent oder das Ablegen einer Schwäche
+* Meisterschaft in einem Talent
+* Eine neue Fertigkeit
+* Vetrautheit mit einem Gegenstand
+* Ein neuer Gegenstand
+* Ein neuer Zauber
+* Ein Titel
